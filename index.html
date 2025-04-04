@@ -12,23 +12,56 @@
     h1 {
       color: #90ee90;
     }
-    pre {
+    .game {
+      margin-bottom: 20px;
+      padding: 10px;
       background: #2e2e2e;
-      padding: 1em;
       border-radius: 8px;
-      white-space: pre-wrap;
+    }
+    .game img {
+      vertical-align: middle;
+      margin-right: 10px;
+      border-radius: 4px;
+    }
+    .game a {
+      font-size: 1.2em;
+      font-weight: bold;
+      text-decoration: none;
+      color: #90ee90;
+    }
+    .game a:hover {
+      text-decoration: underline;
+    }
+    .playtime {
+      font-size: 0.9em;
+      color: #cccccc;
     }
   </style>
 </head>
 <body>
   <h1>Available Games to Stream</h1>
-  <pre id="gamelist">Loading game list...</pre>
+  <div id="gamelist">Loading game list...</div>
 
   <script>
-    fetch('games.txt')
-      .then(res => res.text())
+    fetch('games.json') // Assuming the game data is now in a JSON file
+      .then(res => res.json())
       .then(data => {
-        document.getElementById('gamelist').textContent = data;
+        const gamelist = document.getElementById('gamelist');
+        gamelist.innerHTML = ''; // Clear the loading text
+
+        data.forEach(game => {
+          const gameDiv = document.createElement('div');
+          gameDiv.className = 'game';
+
+          gameDiv.innerHTML = `
+            <img src="${game.icon_url}" alt="Icon" width="32" height="32">
+            <img src="${game.logo_url}" alt="Logo" width="64" height="32">
+            <a href="${game.store_url}" target="_blank">${game.name}</a>
+            <div class="playtime">Playtime: ${game.playtime} hours</div>
+          `;
+
+          gamelist.appendChild(gameDiv);
+        });
       })
       .catch(err => {
         document.getElementById('gamelist').textContent = 'Could not load game list.';
