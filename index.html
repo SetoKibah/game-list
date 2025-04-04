@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Game List</title>
+  <style>
+    body {
+      background: #1e1e1e;
+      color: #ffffff;
+      font-family: sans-serif;
+      padding: 2em;
+    }
+    h1 {
+      color: #90ee90;
+    }
+    pre {
+      background: #2e2e2e;
+      padding: 1em;
+      border-radius: 8px;
+      white-space: pre-wrap;
+    }
+  </style>
+</head>
+<body>
+  <h1>Available Games to Stream</h1>
+  <pre id="gamelist">Loading game list...</pre>
+
+  <script>
+    fetch('games.txt')
+      .then(res => res.text())
+      .then(data => {
+        document.getElementById('gamelist').textContent = data;
+      })
+      .catch(err => {
+        document.getElementById('gamelist').textContent = 'Could not load game list.';
+      });
+  </script>
+</body>
+</html>
