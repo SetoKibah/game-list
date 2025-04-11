@@ -216,7 +216,7 @@
 
       modal.querySelector('.modal-header').textContent = game.name;
       modal.querySelector('.modal-body').innerHTML = `
-        <img src="${game.logo_url}" alt="Thumbnail" style="width: 100%; height: auto; margin-bottom: 10px;">
+        <img src="${game.logo_url}" alt="Thumbnail" style="width: 150px; height: auto; margin-bottom: 10px;">
         <p><strong>Description:</strong> ${game.description}</p>
         <p><strong>Playtime:</strong> ${game.playtime} hours</p>
         <p><strong>Genres:</strong> ${game.genres.join(', ') || 'N/A'}</p>
@@ -226,8 +226,6 @@
         <p><strong>Platforms:</strong> ${game.platforms.join(', ') || 'N/A'}</p>
         <p><strong>Languages:</strong> ${game.languages}</p>
         <p><strong>Metacritic Score:</strong> ${game.metacritic_score}</p>
-        ${game.screenshots.length > 0 ? '<p><strong>Screenshots:</strong></p>' : ''}
-        ${game.screenshots.map(screenshot => `<img src="${screenshot.path_thumbnail}" alt="Screenshot" class="screenshot-thumbnail" onclick="viewScreenshot('${screenshot.path_full}')">`).join('')}
       `;
 
       modal.style.display = 'block';
