@@ -31,6 +31,8 @@
       font-weight: bold;
       text-decoration: none;
       color: #90ee90;
+      pointer-events: none; /* Disable default link behavior */
+      cursor: default;
     }
     .game a:hover {
       text-decoration: underline;
@@ -61,8 +63,8 @@
 
     /* Add styles for game thumbnails */
     .game img {
-      width: 64px;
-      height: 64px;
+      width: 48px;
+      height: 48px;
       object-fit: cover;
       border-radius: 4px;
     }
@@ -162,6 +164,11 @@
     function openModal(game) {
       const modal = document.getElementById('gameModal');
       const overlay = document.getElementById('modalOverlay');
+
+      if (!modal || !overlay) {
+        console.error('Modal or overlay element not found.');
+        return;
+      }
 
       modal.querySelector('.modal-header').textContent = game.name;
       modal.querySelector('.modal-body').innerHTML = `
