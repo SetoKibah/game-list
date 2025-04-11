@@ -13,15 +13,18 @@
       color: #90ee90;
     }
     .game {
-      margin-bottom: 20px;
-      padding: 10px;
+      padding: 8px;
+      margin-bottom: 15px;
       background: #2e2e2e;
-      border-radius: 8px;
+      border-radius: 6px;
     }
     .game img {
       vertical-align: middle;
       margin-right: 10px;
       border-radius: 4px;
+      width: 64px;
+      height: 64px;
+      object-fit: cover;
     }
     .game a {
       font-size: 1.2em;
@@ -58,9 +61,10 @@
 
     /* Add styles for game thumbnails */
     .game img {
-      width: 100%;
-      height: auto;
-      border-radius: 8px;
+      width: 64px;
+      height: 64px;
+      object-fit: cover;
+      border-radius: 4px;
     }
 
     /* Add styles for modals */
@@ -162,9 +166,17 @@
       modal.querySelector('.modal-header').textContent = game.name;
       modal.querySelector('.modal-body').innerHTML = `
         <img src="${game.logo_url}" alt="Thumbnail" style="width: 100%; height: auto; margin-bottom: 10px;">
+        <p><strong>Description:</strong> ${game.description}</p>
         <p><strong>Playtime:</strong> ${game.playtime} hours</p>
         <p><strong>Genres:</strong> ${game.genres.join(', ') || 'N/A'}</p>
         <p><strong>Release Date:</strong> ${game.release_date}</p>
+        <p><strong>Developers:</strong> ${game.developers.join(', ') || 'N/A'}</p>
+        <p><strong>Publishers:</strong> ${game.publishers.join(', ') || 'N/A'}</p>
+        <p><strong>Platforms:</strong> ${game.platforms.join(', ') || 'N/A'}</p>
+        <p><strong>Languages:</strong> ${game.languages}</p>
+        <p><strong>Metacritic Score:</strong> ${game.metacritic_score}</p>
+        ${game.screenshots.length > 0 ? '<p><strong>Screenshots:</strong></p>' : ''}
+        ${game.screenshots.map(screenshot => `<img src="${screenshot.path_thumbnail}" alt="Screenshot" style="width: 100%; margin-bottom: 10px;">`).join('')}
       `;
 
       modal.style.display = 'block';
