@@ -36,6 +36,91 @@
       font-size: 0.9em;
       color: #cccccc;
     }
+    /* Add grid layout for better organization */
+    #gamelist {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 20px;
+    }
+
+    /* Add hover effects for game cards */
+    .game:hover {
+      background: #3e3e3e;
+      transform: scale(1.05);
+      transition: all 0.3s ease;
+    }
+
+    /* Style for genres and release date */
+    .genres, .release-date {
+      font-size: 0.8em;
+      color: #aaaaaa;
+    }
+
+    /* Add styles for game thumbnails */
+    .game img {
+      width: 100%;
+      height: auto;
+      border-radius: 8px;
+    }
+
+    /* Add styles for modals */
+    .modal {
+      display: none;
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background: #2e2e2e;
+      color: #ffffff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      z-index: 1000;
+    }
+
+    .modal-header {
+      font-size: 1.5em;
+      margin-bottom: 10px;
+    }
+
+    .modal-close {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      cursor: pointer;
+      font-size: 1.2em;
+      color: #ffffff;
+    }
+
+    .modal-overlay {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.5);
+      z-index: 999;
+    }
+
+    /* Add animations */
+    .game:hover {
+      transform: scale(1.05);
+      transition: transform 0.3s ease;
+    }
+
+    .modal {
+      animation: fadeIn 0.3s ease;
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+      }
+      to {
+        opacity: 1;
+      }
+    }
   </style>
 </head>
 <body>
@@ -54,10 +139,14 @@
           gameDiv.className = 'game';
 
           gameDiv.innerHTML = `
-            <img src="${game.icon_url}" alt="Icon" width="32" height="32">
+            <img src="${game.logo_url}" alt="Thumbnail">
             <a href="${game.store_url}" target="_blank">${game.name}</a>
             <p class="playtime">Playtime: ${game.playtime} hours</p>
           `;
+
+          gameDiv.addEventListener('click', () => {
+            openModal(game);
+          });
 
           gamelist.appendChild(gameDiv);
         });
@@ -65,6 +154,37 @@
       .catch(err => {
         document.getElementById('gamelist').textContent = 'Could not load game list.';
       });
+
+    function openModal(game) {
+      const modal = document.getElementById('gameModal');
+      const overlay = document.getElementById('modalOverlay');
+
+      modal.querySelector('.modal-header').textContent = game.name;
+      modal.querySelector('.modal-body').innerHTML = `
+        <img src="${game.logo_url}" alt="Thumbnail" style="width: 100%; height: auto; margin-bottom: 10px;">
+        <p><strong>Playtime:</strong> ${game.playtime} hours</p>
+        <p><strong>Genres:</strong> ${game.genres.join(', ') || 'N/A'}</p>
+        <p><strong>Release Date:</strong> ${game.release_date}</p>
+      `;
+
+      modal.style.display = 'block';
+      overlay.style.display = 'block';
+    }
+
+    function closeModal() {
+      const modal = document.getElementById('gameModal');
+      const overlay = document.getElementById('modalOverlay');
+
+      modal.style.display = 'none';
+      overlay.style.display = 'none';
+    }
   </script>
+
+  <div id="modalOverlay" class="modal-overlay" onclick="closeModal()"></div>
+  <div id="gameModal" class="modal">
+    <span class="modal-close" onclick="closeModal()">&times;</span>
+    <div class="modal-header"></div>
+    <div class="modal-body"></div>
+  </div>
 </body>
 </html>
