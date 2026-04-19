@@ -11,6 +11,13 @@ load_dotenv()
 STEAM_API_KEY = os.getenv('STEAM_API_KEY', '6D21DDC31824B11F6D274D96A0D41071')
 STEAM_ID = os.getenv('STEAM_ID', '76561198030118131')
 
+# App IDs to exclude (hidden/private games). Find IDs at store.steampowered.com/app/<ID>/
+EXCLUDED_APP_IDS = {
+    # e.g. 730,  # CS2
+    899970 # nekopara extra
+
+}
+
 url = f"https://api.steampowered.com/IPlayerService/GetOwnedGames/v1/?key={STEAM_API_KEY}&steamid={STEAM_ID}&include_appinfo=true&include_played_free_games=true"
 
 response = requests.get(url)
@@ -18,6 +25,7 @@ response = requests.get(url)
 if response.status_code == 200:
     data = response.json()
     games = data.get('response', {}).get('games', [])
+    games = [g for g in games if g['appid'] not in EXCLUDED_APP_IDS]
     if games:
         # Prepare the game data for JSON output
         game_list = []

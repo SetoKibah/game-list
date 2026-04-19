@@ -4,7 +4,7 @@
         "icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/431960/72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d.jpg",
         "logo_url": "https://media.steampowered.com/steamcommunity/public/images/apps/431960/72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d.jpg",
         "store_url": "https://store.steampowered.com/app/431960/",
-        "playtime": 2494,
+        "playtime": 2497,
         "genres": [
             "Casual",
             "Indie",
@@ -41,7 +41,7 @@
             "Simulation",
             "Strategy"
         ],
-        "release_date": "14 Aug, 2020",
+        "release_date": "Aug 14, 2020",
         "description": "Factorio is a game about building and creating automated factories to produce items of increasing complexity, within an infinite 2D world. Use your imagination to design your factory, combine simple elements into ingenious structures, and finally protect it from the creatures who don't really like you.",
         "developers": [
             "Wube Software LTD."
@@ -215,12 +215,12 @@
         "store_url": "https://store.steampowered.com/app/107410/",
         "playtime": 367,
         "genres": [
-            "\u042d\u043a\u0448\u0435\u043d\u044b",
-            "\u0421\u0438\u043c\u0443\u043b\u044f\u0442\u043e\u0440\u044b",
-            "\u0421\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u0438"
+            "Action",
+            "Simulation",
+            "Strategy"
         ],
-        "release_date": "12 \u0441\u0435\u043d. 2013 \u0433.",
-        "description": "\u0418\u0441\u043f\u044b\u0442\u0430\u0439\u0442\u0435 \u0440\u0435\u0430\u043b\u0438\u0441\u0442\u0438\u0447\u043d\u044b\u0439 \u0431\u043e\u0439 \u0432 \u043c\u0430\u0441\u0448\u0442\u0430\u0431\u043d\u043e\u0439 \u0432\u043e\u0435\u043d\u043d\u043e\u0439 \u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435. \u0421\u0446\u0435\u043d\u0430\u0440\u0438\u0438 \u0434\u043b\u044f \u043e\u0434\u0438\u043d\u043e\u0447\u043d\u043e\u0439 \u0438 \u043c\u043d\u043e\u0433\u043e\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u043e\u0439 \u0438\u0433\u0440\u044b, \u043e\u0431\u0448\u0438\u0440\u043d\u044b\u0439 \u0430\u0440\u0441\u0435\u043d\u0430\u043b \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0433\u043e \u0432\u043e\u043e\u0440\u0443\u0436\u0435\u043d\u0438\u044f \u0438 \u0442\u0435\u0445\u043d\u0438\u043a\u0438 \u0438 \u0448\u0438\u0440\u043e\u043a\u0438\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0434\u043b\u044f \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f \u043a\u043e\u043d\u0442\u0435\u043d\u0442\u0430. \u0410\u0443\u0442\u0435\u043d\u0442\u0438\u0447\u043d\u0430\u044f, \u0440\u0430\u0437\u043d\u043e\u043e\u0431\u0440\u0430\u0437\u043d\u0430\u044f \u0438 \u043e\u0442\u043a\u0440\u044b\u0442\u0430\u044f\u00a0\u2014 Arma 3 \u043e\u0442\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u0442 \u0432\u0430\u0441 \u0432 \u0437\u043e\u043d\u0443 \u0431\u043e\u0435\u0432\u044b\u0445 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0439.",
+        "release_date": "Sep 12, 2013",
+        "description": "Experience true combat gameplay in a massive military sandbox. Deploy with a wide variety of single- and multiplayer content, a massive arsenal of modern weapons and vehicles, and limitless opportunities for content creation. Authentic, diverse, open - Arma 3 sends you to war.",
         "developers": [
             "Bohemia Interactive"
         ],
@@ -231,7 +231,7 @@
             "windows",
             "mac"
         ],
-        "languages": "\u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439<strong>*</strong>",
+        "languages": "English<strong>*</strong>",
         "metacritic_score": 74,
         "screenshots": [],
         "achievements": [
@@ -311,7 +311,7 @@
             "Action",
             "Strategy"
         ],
-        "release_date": "Feb 16, 2022",
+        "release_date": "16 Feb, 2022",
         "description": "The cataclysmic conclusion to the Total War: WARHAMMER trilogy is here. Rally your forces and step into the Realm of Chaos, a dimension of mind-bending horror where the very fate of the world will be decided. Will you conquer your Daemons\u2026 or command them?",
         "developers": [
             "CREATIVE ASSEMBLY",
@@ -457,7 +457,7 @@
         "genres": [
             "Action"
         ],
-        "release_date": "8 Feb, 2024",
+        "release_date": "Feb 8, 2024",
         "description": "The Galaxy\u2019s Last Line of Offence. Enlist in the Helldivers and join the fight for freedom across a hostile galaxy in a fast, frantic, and ferocious third-person shooter.",
         "developers": [
             "Arrowhead Game Studios"
@@ -692,7 +692,7 @@
             "Massively Multiplayer",
             "RPG"
         ],
-        "release_date": "10 Jun, 2025",
+        "release_date": "Jun 10, 2025",
         "description": "Dune: Awakening is an Open World Survival RPG where you can fully immerse yourself in the epic world of Dune. Alone or with friends, explore a vast open world Arrakis, survive the sandworms, build a home, craft an ornithopter, and unravel the mystery of the missing Fremen.",
         "developers": [
             "Funcom"
@@ -750,7 +750,7 @@
             "Simulation",
             "Strategy"
         ],
-        "release_date": "Nov 16, 2023",
+        "release_date": "16 Nov, 2023",
         "description": "Engage in massive combined arms battles, create and curate combat missions in real time, and shape your experience with endless community mods. Deploy into the Cold War and experience the most authentic and immersive military sandbox ever created.",
         "developers": [
             "Bohemia Interactive"
@@ -783,7 +783,7 @@
             "Action",
             "Free To Play"
         ],
-        "release_date": "Dec 1, 2015",
+        "release_date": "1 Dec, 2015",
         "description": "Rainbow Six\u00ae Siege is the reference in tactical team shooters, where elite strategy and execution triumph. Enjoy free access to Quick Match, Unranked, and Dual Front game modes with a selection of operators.",
         "developers": [
             "Ubisoft Montreal"
@@ -811,7 +811,7 @@
             "Massively Multiplayer",
             "Free To Play"
         ],
-        "release_date": "21 Dec, 2017",
+        "release_date": "Dec 21, 2017",
         "description": "PUBG: BATTLEGROUNDS, the high-stakes winner-take-all shooter that started the Battle Royale craze, is free-to-play! Drop into diverse maps, loot unique weapons and supplies, and survive in an ever-shrinking zone where every turn could be your last.",
         "developers": [
             "PUBG Corporation"
@@ -869,7 +869,7 @@
             "Simulation",
             "Strategy"
         ],
-        "release_date": "17 Oct, 2018",
+        "release_date": "Oct 17, 2018",
         "description": "A sci-fi colony sim driven by an intelligent AI storyteller. Generates stories by simulating psychology, ecology, gunplay, melee combat, climate, biomes, diplomacy, interpersonal relationships, art, medicine, trade, and more.",
         "developers": [
             "Ludeon Studios"
@@ -1309,7 +1309,7 @@
         "genres": [
             "Action"
         ],
-        "release_date": "13 Feb, 2017",
+        "release_date": "Feb 13, 2017",
         "description": "Fight alone or with friends in For Honor, a third-person hero-based melee fighting game. Enter the chaos of war as a Knight, a Viking, a Samurai, a Wu Lin, or an Outlander. Fight in brutal PvP and team-oriented modes, or play the thrilling story campaign.",
         "developers": [
             "Ubisoft Montreal",
@@ -1376,7 +1376,7 @@
         "genres": [
             "Action"
         ],
-        "release_date": "Aug 27, 2019",
+        "release_date": "27 Aug, 2019",
         "description": "Hunt: Showdown 1896 is a new era of the addictively unforgiving extraction shooter. In corrupted backwaters lost to history, fight back alone \u2013 or with friends \u2013 against timeless evil. Twisted monsters and other ruthless Hunters stand between you and your Bounty. Risk everything as Hunt consumes you",
         "developers": [
             "Crytek"
@@ -1493,7 +1493,7 @@
             "Adventure",
             "Indie"
         ],
-        "release_date": "13 Dec, 2023",
+        "release_date": "Dec 13, 2023",
         "description": "Ready or Not is an intense, tactical, first-person shooter that depicts a modern-day world in which SWAT police units are called to defuse hostile and confronting situations.",
         "developers": [
             "VOID Interactive"
@@ -1785,7 +1785,7 @@
             "Action",
             "Adventure"
         ],
-        "release_date": "Apr 13, 2015",
+        "release_date": "13 Apr, 2015",
         "description": "Grand Theft Auto V for PC offers players the option to explore the award-winning world of Los Santos and Blaine County in resolutions of up to 4k and beyond, as well as the chance to experience the game running at 60 frames per second.",
         "developers": [
             "Rockstar North"
@@ -2382,7 +2382,7 @@
         "platforms": [
             "windows"
         ],
-        "languages": "Simplified Chinese",
+        "languages": "Simplified Chinese<strong>*</strong>",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": [
@@ -2422,7 +2422,7 @@
             "Action",
             "Adventure"
         ],
-        "release_date": "Dec 1, 2020",
+        "release_date": "1 Dec, 2020",
         "description": "Step into the vibrant, ever-evolving world of Red Dead Online and experience life in frontier America. Chase down bounties, battle outlaw gangs and other players, hunt, fish and trade, search for exotic treasures, run Moonshine, and much more to discover in a world of astounding depth and detail.",
         "developers": [
             "Rockstar Games"
@@ -2479,7 +2479,7 @@
             "Massively Multiplayer",
             "RPG"
         ],
-        "release_date": "Feb 8, 2018",
+        "release_date": "8 Feb, 2018",
         "description": "The only aim in Rust is to survive. Everything wants you to die - the island\u2019s wildlife, other inhabitants, the environment, and other survivors. Do whatever it takes to last another night.",
         "developers": [
             "Facepunch Studios"
@@ -2595,7 +2595,7 @@
             "Action",
             "Adventure"
         ],
-        "release_date": "16 May, 2024",
+        "release_date": "May 16, 2024",
         "description": "A storm is coming. Venture into the complete Ghost of Tsushima DIRECTOR\u2019S CUT on PC; forge your own path through this open-world action adventure and uncover its hidden wonders. Brought to you by Sucker Punch Productions, Nixxes Software and PlayStation Studios.",
         "developers": [
             "Sucker Punch Productions",
@@ -2711,7 +2711,7 @@
         "genres": [
             "RPG"
         ],
-        "release_date": "Dec 9, 2020",
+        "release_date": "9 Dec, 2020",
         "description": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the dark future of Night City \u2014 a dangerous megalopolis obsessed with power, glamor, and ceaseless body modification.",
         "developers": [
             "CD PROJEKT RED"
@@ -3331,7 +3331,7 @@
             "Simulation",
             "Free To Play"
         ],
-        "release_date": "15 Aug, 2013",
+        "release_date": "Aug 15, 2013",
         "description": "War Thunder is the most comprehensive free-to-play, cross-platform, MMO military game dedicated to aviation, armoured vehicles, and naval craft, from the early 20th century to the most advanced modern combat units. Join now and take part in major battles on land, in the air, and at sea.",
         "developers": [
             "Gaijin Entertainment"
@@ -3391,7 +3391,7 @@
             "Strategy",
             "Early Access"
         ],
-        "release_date": "Apr 26, 2024",
+        "release_date": "26 Apr, 2024",
         "description": "Manor Lords is a medieval strategy game featuring in-depth city building, large-scale tactical battles, and complex economic and social simulations. Rule your lands as a medieval lord \u2013 the seasons pass, the weather changes, and cities rise and fall.",
         "developers": [
             "Slavic Magic"
@@ -3441,7 +3441,7 @@
         "genres": [
             "Action"
         ],
-        "release_date": "9 Dec, 2021",
+        "release_date": "Dec 9, 2021",
         "description": "GTFO is a hardcore cooperative horror shooter that throws you from gripping suspense to explosive action in a heartbeat. Stealth, strategy, and teamwork are necessary to survive in your deadly, underground prison. Work together or die together.",
         "developers": [
             "10 Chambers"
@@ -3464,10 +3464,10 @@
         "store_url": "https://store.steampowered.com/app/275850/",
         "playtime": 24,
         "genres": [
-            "Action",
-            "Adventure"
+            "Acci\u00f3n",
+            "Aventura"
         ],
-        "release_date": "Aug 12, 2016",
+        "release_date": "12 AGO 2016",
         "description": "No Man's Sky is a game about exploration and survival in an infinite procedurally generated universe.",
         "developers": [
             "Hello Games"
@@ -3479,7 +3479,7 @@
             "windows",
             "mac"
         ],
-        "languages": "English<strong>*</strong>",
+        "languages": "Ingl\u00e9s<strong>*</strong>",
         "metacritic_score": 61,
         "screenshots": [],
         "achievements": [
@@ -3526,7 +3526,7 @@
             "Indie",
             "Simulation"
         ],
-        "release_date": "14 Nov, 2014",
+        "release_date": "Nov 14, 2014",
         "description": "In This War Of Mine you do not play as an elite soldier, rather a group of civilians trying to survive in a besieged city; struggling with lack of food, medicine and constant danger from snipers and hostile scavengers. The game provides an experience of war seen from an entirely new angle.",
         "developers": [
             "11 bit studios"
@@ -4430,7 +4430,7 @@
             "Action",
             "Adventure"
         ],
-        "release_date": "5 Dec, 2019",
+        "release_date": "Dec 5, 2019",
         "description": "Arthur Morgan and the Van der Linde Gang are outlaws on the run. With federal agents and bounty hunters massing on their heels, the gang must rob, steal, and fight their way across the rugged heartland in order to survive.",
         "developers": [
             "Rockstar Games"
@@ -4707,7 +4707,7 @@
             "Action",
             "Adventure"
         ],
-        "release_date": "Jun 23, 2015",
+        "release_date": "23 Jun, 2015",
         "description": "Batman\u2122: Arkham Knight brings the award-winning Arkham trilogy from Rocksteady Studios to its epic conclusion. Developed exclusively for New-Gen platforms, Batman: Arkham Knight introduces Rocksteady's uniquely designed version of the Batmobile.",
         "developers": [
             "Rocksteady Studios"
@@ -4764,7 +4764,7 @@
             "Action",
             "Adventure"
         ],
-        "release_date": "12 Nov, 2014",
+        "release_date": "Nov 11, 2014",
         "description": "Paris, 1789. In this action-adventure game, experience the French Revolution through the eyes of Arno Dorian. Become an Assassin and expose the true powers behind the Revolution for the fate of a nation.",
         "developers": [
             "Ubisoft"
@@ -4992,7 +4992,7 @@
         "genres": [
             "Adventure"
         ],
-        "release_date": "13 Jun, 2025",
+        "release_date": "Jun 13, 2025",
         "description": "Explore an emotional sci-fi game with a unique blend of survival, adventure, and base-building elements. Help Jan Dolski, the sole survivor of an ill-fated space expedition, create alternative versions of himself to escape a hostile planet and tackle personal turmoils with this unconventional crew.",
         "developers": [
             "11 bit studios"
@@ -5210,7 +5210,7 @@
         "genres": [
             "Action"
         ],
-        "release_date": "Nov 19, 2012",
+        "release_date": "19 Nov, 2012",
         "description": "The original assassin is back! Betrayed by the Agency and hunted by the police, Agent 47 finds himself pursuing redemption in a corrupt and twisted world.",
         "developers": [
             "Io-Interactive A/S"
@@ -5446,7 +5446,7 @@
             "Simulation",
             "Strategy"
         ],
-        "release_date": "Oct 6, 2015",
+        "release_date": "6 Oct, 2015",
         "description": "Only the world\u2019s most ruthless Warden can contain the world\u2019s most ruthless inmates. Design and develop your personalized penitentiary in Prison Architect.",
         "developers": [
             "Introversion Software",
@@ -5833,7 +5833,7 @@
             "Strategy",
             "Early Access"
         ],
-        "release_date": "May 21, 2020",
+        "release_date": "21 May, 2020",
         "description": "Embark on a space voyage with your ragtag crew of civilians in search of a new home. Build spaceships tile by tile, create optimal gas conditions, manage the needs and moods of their crew, encounter other space-faring groups, and explore the universe in this spaceship colony simulation.",
         "developers": [
             "Bugbyte Ltd."
@@ -5861,7 +5861,7 @@
             "Action",
             "Indie"
         ],
-        "release_date": "4 Jun, 2015",
+        "release_date": "Jun 4, 2015",
         "description": "Enter the futuristic year of 1984, an age where ducks run wild in a frantic battle for glory. Blast your friends with Shotguns, Net Guns, Mind Control Rays, Saxophones, Magnet Guns, and much, much more. This is DUCK GAME. Don't blink.",
         "developers": [
             "Landon Podbielski"
@@ -5970,7 +5970,7 @@
         "genres": [
             "Strategy"
         ],
-        "release_date": "Jun 18, 2019",
+        "release_date": "18 Jun, 2019",
         "description": "They Are Billions is a Steampunk strategy game set on a post-apocalyptic planet. Build and defend colonies to survive against the billions of the infected that seek to annihilate the few remaining living humans. Can humanity survive after the zombie apocalypse?",
         "developers": [
             "Numantian Games"
@@ -6036,7 +6036,7 @@
             "Adventure",
             "RPG"
         ],
-        "release_date": "Oct 17, 2017",
+        "release_date": "17 Oct, 2017",
         "description": "ELEX is a handcrafted action role-playing experience from the award-winning creators of the Gothic series, set in a brand new post-apocalyptic Science Fantasy universe that puts players into a huge seamless game world full of original characters, mutated creatures, deep moral choices and powerful action.",
         "developers": [
             "Piranha Bytes"
@@ -6092,7 +6092,7 @@
         "genres": [
             "Casual"
         ],
-        "release_date": "16 Nov, 2018",
+        "release_date": "Nov 16, 2018",
         "description": "An online and local party game of teamwork and betrayal for 4-15 players...in space!",
         "developers": [
             "Innersloth"
@@ -6118,7 +6118,7 @@
             "Action",
             "Adventure"
         ],
-        "release_date": "Jun 11, 2020",
+        "release_date": "11 Jun, 2020",
         "description": "Be the hero in the ultimate STAR WARS\u2122 battle fantasy with STAR WARS\u2122 Battlefront\u2122 II: Celebration Edition!",
         "developers": [
             "DICE"
@@ -6258,7 +6258,7 @@
             "Audio Production",
             "Utilities"
         ],
-        "release_date": "30 Sep, 2017",
+        "release_date": "Sep 30, 2017",
         "description": "Play sounds in voice chats in high digital quality. Add sounds or music to your microphone signal so others will hear it, too.",
         "developers": [
             "Leppsoft"
@@ -6284,7 +6284,7 @@
             "Action",
             "Strategy"
         ],
-        "release_date": "May 24, 2016",
+        "release_date": "24 May, 2016",
         "description": "Addictive turn-based empire-building with colossal, real-time battles, all set in a world of legendary heroes, giant monsters, flying creatures and storms of magical power.",
         "developers": [
             "CREATIVE ASSEMBLY",
@@ -6985,7 +6985,7 @@
             "Adventure",
             "Indie"
         ],
-        "release_date": "16 Jun, 2025",
+        "release_date": "Jun 16, 2025",
         "description": "PEAK is a co-op climbing game where the slightest mistake can spell your doom. Either solo or as a group of lost nature scouts, your only hope of rescue from a mysterious island is to scale the mountain at its center. Do you have what it takes to reach the PEAK?",
         "developers": [
             "Team PEAK"
@@ -7933,7 +7933,7 @@
             "Action",
             "Strategy"
         ],
-        "release_date": "Jun 19, 2023",
+        "release_date": "19 Jun, 2023",
         "description": "Drop into the gripping journey of Aliens: Dark Descent, a squad-based, single-player action game in the iconic Alien franchise. Lead your soldiers in real-time to stop a new and terrifying kind of Xenomorph outbreak on Planet Lethe.",
         "developers": [
             "Tindalos Interactive"
@@ -7990,7 +7990,7 @@
             "Action",
             "RPG"
         ],
-        "release_date": "20 Sep, 2012",
+        "release_date": "Sep 17, 2012",
         "description": "The Ultimate Vault Hunter\u2019s Upgrade lets you get the most out of the Borderlands 2 experience.",
         "developers": [
             "Gearbox Software",
@@ -8287,7 +8287,7 @@
         "genres": [
             "Indie"
         ],
-        "release_date": "21 May, 2019",
+        "release_date": "May 21, 2019",
         "description": "Beat Saber is a VR rhythm game where you slash the beats of adrenaline-pumping music as they fly towards you, surrounded by a futuristic world.",
         "developers": [
             "Beat Games"
@@ -8608,7 +8608,7 @@
             "Indie",
             "Free To Play"
         ],
-        "release_date": "17 Oct, 2017",
+        "release_date": "Oct 17, 2017",
         "description": "An epic platform fighter for up to 8 players online or local. Try casual free-for-alls, ranked matches, or invite friends to a private room. And it's free! Play cross-platform with millions of players on PlayStation, Xbox, Nintendo Switch, iOS, Android &amp; Steam! Frequent updates. Over sixty Legends.",
         "developers": [
             "Blue Mammoth Games"
@@ -8935,7 +8935,7 @@
             "RPG",
             "Strategy"
         ],
-        "release_date": "17 Aug, 2017",
+        "release_date": "Aug 17, 2017",
         "description": "Darkwood - a new perspective on survival horror. Scavenge and explore a rich, ever-changing free-roam world by day, then hunker down in your hideout and pray for the morning light.",
         "developers": [
             "Acid Wizard Studio"
@@ -9033,7 +9033,7 @@
             "Casual",
             "Indie"
         ],
-        "release_date": "15 May, 2014",
+        "release_date": "May 15, 2014",
         "description": "Welcome to BattleBlock Theater! You\u2019ve got no where to go but up...on stage. Play single player or co-op to free your friends and save Hatty Hattington! Jump, solve and battle your way through a mysterious theater inhabited by highly technological felines.",
         "developers": [
             "The Behemoth"
@@ -9201,7 +9201,7 @@
         "genres": [
             "Strategy"
         ],
-        "release_date": "18 Feb, 2009",
+        "release_date": "Feb 18, 2009",
         "description": "All of Warhammer 40,000: Dawn of War II in one package. Play the award-winning real-time strategy game in all its glory, including three full campaigns, six multiplayer factions, and a full co-op Last Stand mode with eight unique heroes.",
         "developers": [
             "Relic Entertainment",
@@ -9588,7 +9588,7 @@
             "Casual",
             "Massively Multiplayer"
         ],
-        "release_date": "Oct 27, 2016",
+        "release_date": "27 Oct, 2016",
         "description": "DRAGON BALL XENOVERSE 2 builds upon the highly popular DRAGON BALL XENOVERSE with enhanced graphics that will further immerse players into the largest and most detailed Dragon Ball world ever developed.",
         "developers": [
             "QLOC",
@@ -9661,6 +9661,65 @@
         "metacritic_score": 82,
         "screenshots": [],
         "achievements": []
+    },
+    {
+        "name": "Going Medieval",
+        "icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1029780/3eec57d783c54036166564e195039b20f600a52f.jpg",
+        "logo_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1029780/3eec57d783c54036166564e195039b20f600a52f.jpg",
+        "store_url": "https://store.steampowered.com/app/1029780/",
+        "playtime": 5,
+        "genres": [
+            "Indie",
+            "RPG",
+            "Simulation",
+            "Strategy"
+        ],
+        "release_date": "17 Mar, 2026",
+        "description": "Build and manage your own castle settlement in a land reclaimed by wilderness. With detailed management, survival strategy, and a moddable sandbox world, Going Medieval challenges you to build the mightiest colony this side of the apocalypse.",
+        "developers": [
+            "Foxy Voxel"
+        ],
+        "publishers": [
+            "Mythwright"
+        ],
+        "platforms": [
+            "windows"
+        ],
+        "languages": "English",
+        "metacritic_score": 76,
+        "screenshots": [],
+        "achievements": [
+            {
+                "name": "Having A Field Day",
+                "description": "Harvest 5 Crops",
+                "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029780/9ab9da0ad37b222edc5f779fec1ad1d971907412.jpg",
+                "rarity": 100
+            },
+            {
+                "name": "Green Thumb",
+                "description": "Harvest 200 Crops",
+                "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029780/4fcaf1c9c4586a546c264835b1b214b488f53f0d.jpg",
+                "rarity": 100
+            },
+            {
+                "name": "Home Cooked Meal",
+                "description": "Produce a Meal at a Campfire",
+                "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029780/d113ed4bc99645c7b57991d2e8000f7cb0c371d3.jpg",
+                "rarity": 100
+            },
+            {
+                "name": "Novice Researcher",
+                "description": "Unlock First Research Item",
+                "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029780/f6f630bf2ef94279d3dc6cf6176fb17aeccc9d50.jpg",
+                "rarity": 100
+            },
+            {
+                "name": "Onward",
+                "description": "Unlock 3x Research Items",
+                "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029780/dada6d4b5d529c515e65db6e9b33d218b5806b9b.jpg",
+                "rarity": 100
+            }
+        ]
     },
     {
         "name": "Rising Storm 2: Vietnam",
@@ -9760,7 +9819,7 @@
             "Action",
             "Adventure"
         ],
-        "release_date": "23 Mar, 2020",
+        "release_date": "Mar 23, 2020",
         "description": "Half-Life: Alyx is Valve\u2019s VR return to the Half-Life series. It\u2019s the story of an impossible fight against a vicious alien race known as the Combine, set between the events of Half-Life and Half-Life 2. Playing as Alyx Vance, you are humanity\u2019s only chance for survival.",
         "developers": [
             "Valve"
@@ -10402,7 +10461,7 @@
             "Adventure",
             "RPG"
         ],
-        "release_date": "19 Aug, 2024",
+        "release_date": "Aug 19, 2024",
         "description": "Black Myth: Wukong is an action RPG rooted in Chinese mythology. You shall set out as the Destined One to venture into the challenges and marvels ahead, to uncover the obscured truth beneath the veil of a glorious legend from the past.",
         "developers": [
             "Game Science"
@@ -10518,7 +10577,7 @@
             "Action",
             "Early Access"
         ],
-        "release_date": "24 Sep, 2024",
+        "release_date": "Sep 24, 2024",
         "description": "The Forever Winter is a tactical shooter where you and your squad must loot the dead to survive under the shadow of terrifying and gargantuan war machines locked in a never-ending conflict. Millions of deaths later the war continues with our latest update!",
         "developers": [
             "Fun Dog Studios"
@@ -10688,7 +10747,7 @@
             "Action",
             "Adventure"
         ],
-        "release_date": "21 Mar, 2019",
+        "release_date": "Mar 21, 2019",
         "description": "Game of the Year - The Game Awards 2019 Best Action Game of 2019 - IGN Carve your own clever path to vengeance in the award winning adventure from developer FromSoftware, creators of Bloodborne and the Dark Souls series. Take Revenge. Restore Your Honor. Kill Ingeniously.",
         "developers": [
             "FromSoftware, Inc."
@@ -10910,7 +10969,7 @@
             "Action",
             "Adventure"
         ],
-        "release_date": "20 Jan, 2022",
+        "release_date": "Jan 20, 2022",
         "description": "Enter the world of the ultimate assassin. HITMAN World of Assassination delivers the definitive stealth action experience, putting you in the shoes of Agent 47, a master assassin. Explore immersive locations, uncover hidden secrets, and eliminate targets with complete freedom of approach.",
         "developers": [
             "IO Interactive A/S"
@@ -11257,65 +11316,6 @@
         ]
     },
     {
-        "name": "Going Medieval",
-        "icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1029780/3eec57d783c54036166564e195039b20f600a52f.jpg",
-        "logo_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1029780/3eec57d783c54036166564e195039b20f600a52f.jpg",
-        "store_url": "https://store.steampowered.com/app/1029780/",
-        "playtime": 3,
-        "genres": [
-            "Indie",
-            "RPG",
-            "Simulation",
-            "Strategy"
-        ],
-        "release_date": "Mar 17, 2026",
-        "description": "Build and manage your own castle settlement in a land reclaimed by wilderness. With detailed management, survival strategy, and a moddable sandbox world, Going Medieval challenges you to build the mightiest colony this side of the apocalypse.",
-        "developers": [
-            "Foxy Voxel"
-        ],
-        "publishers": [
-            "Mythwright"
-        ],
-        "platforms": [
-            "windows"
-        ],
-        "languages": "English",
-        "metacritic_score": 76,
-        "screenshots": [],
-        "achievements": [
-            {
-                "name": "Having A Field Day",
-                "description": "Harvest 5 Crops",
-                "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029780/9ab9da0ad37b222edc5f779fec1ad1d971907412.jpg",
-                "rarity": 100
-            },
-            {
-                "name": "Green Thumb",
-                "description": "Harvest 200 Crops",
-                "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029780/4fcaf1c9c4586a546c264835b1b214b488f53f0d.jpg",
-                "rarity": 100
-            },
-            {
-                "name": "Home Cooked Meal",
-                "description": "Produce a Meal at a Campfire",
-                "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029780/d113ed4bc99645c7b57991d2e8000f7cb0c371d3.jpg",
-                "rarity": 100
-            },
-            {
-                "name": "Novice Researcher",
-                "description": "Unlock First Research Item",
-                "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029780/f6f630bf2ef94279d3dc6cf6176fb17aeccc9d50.jpg",
-                "rarity": 100
-            },
-            {
-                "name": "Onward",
-                "description": "Unlock 3x Research Items",
-                "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029780/dada6d4b5d529c515e65db6e9b33d218b5806b9b.jpg",
-                "rarity": 100
-            }
-        ]
-    },
-    {
         "name": "Robocraft",
         "icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/301520/25b4f8bc206a7768638974d991b12d3943729d49.jpg",
         "logo_url": "https://media.steampowered.com/steamcommunity/public/images/apps/301520/25b4f8bc206a7768638974d991b12d3943729d49.jpg",
@@ -11646,22 +11646,14 @@
         "store_url": "https://store.steampowered.com/app/1703220/",
         "playtime": 3,
         "genres": [
-            "Adventure",
-            "Casual"
+            "N/A"
         ],
-        "release_date": "Nov 19, 2025",
-        "description": "In this saucy 2D visual novel, you find yourself in a strange new town in which all of its residents are promiscuous and eager to get to know the newcomer! The story will depend entirely on your own choices. Will you give in to passion and accept the locals' blatant advances?",
-        "developers": [
-            "Pound Cake Workshop",
-            "Kupaa Games"
-        ],
-        "publishers": [
-            "Kupaa Games"
-        ],
-        "platforms": [
-            "windows"
-        ],
-        "languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
@@ -11673,23 +11665,14 @@
         "store_url": "https://store.steampowered.com/app/606500/",
         "playtime": 3,
         "genres": [
-            "Action",
-            "Adventure",
-            "Indie",
-            "RPG"
+            "N/A"
         ],
-        "release_date": "Feb 24, 2021",
-        "description": "HellSign is an investigative action RPG that pits you against the horrors of the afterlife, let loose on a small town. As a hunter, you\u2019ll plan, hunt, and kill to pay the bills and piece together the fragments to your past. Just remember - a smart hunter is always prepared.",
-        "developers": [
-            "Ballistic Interactive"
-        ],
-        "publishers": [
-            "Ballistic Interactive"
-        ],
-        "platforms": [
-            "windows"
-        ],
-        "languages": "English",
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": [
@@ -11714,24 +11697,14 @@
         "store_url": "https://store.steampowered.com/app/1631270/",
         "playtime": 3,
         "genres": [
-            "Action",
-            "Adventure",
-            "Indie",
-            "Simulation",
-            "Early Access"
+            "N/A"
         ],
-        "release_date": "Jan 6, 2026",
-        "description": "StarRupture is a first-person open world base-building game with advanced combat and tons of exploration. Play alone or in a group on this sublime and ever-changing planet, extract and manage resources, create your complex industrial system and fight off hordes of alien monsters.",
-        "developers": [
-            "Creepy Jar"
-        ],
-        "publishers": [
-            "Creepy Jar"
-        ],
-        "platforms": [
-            "windows"
-        ],
-        "languages": "English<strong>*</strong>",
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
@@ -11743,19 +11716,15 @@
         "store_url": "https://store.steampowered.com/app/201760/",
         "playtime": 3,
         "genres": [
-            "Simulation"
+            "N/A"
         ],
-        "release_date": "Oct 20, 2011",
-        "description": "Cities XL 2012 now offers nearly 1,000 buildings & over 60 different, huge & incredibly detailed maps.",
+        "release_date": "Unknown",
+        "description": "No description available",
         "developers": [],
-        "publishers": [
-            "Focus Home Interactive"
-        ],
-        "platforms": [
-            "windows"
-        ],
-        "languages": "English",
-        "metacritic_score": 61,
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
+        "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
     },
@@ -11825,23 +11794,14 @@
         "store_url": "https://store.steampowered.com/app/736220/",
         "playtime": 2,
         "genres": [
-            "Action",
-            "Indie",
-            "Massively Multiplayer",
-            "Strategy"
+            "N/A"
         ],
-        "release_date": "Aug 9, 2018",
-        "description": "Team up and join the frontline in Squad 44, the most authentic tactical WW2 shooter. Experience ruthless realism with an immense arsenal of faithfully recreated weapons and vehicles across massive WW2 battlefields.",
-        "developers": [
-            "Offworld"
-        ],
-        "publishers": [
-            "Offworld"
-        ],
-        "platforms": [
-            "windows"
-        ],
-        "languages": "English<strong>*</strong>",
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
@@ -11853,23 +11813,15 @@
         "store_url": "https://store.steampowered.com/app/427250/",
         "playtime": 2,
         "genres": [
-            "Indie",
-            "Simulation",
-            "Strategy"
+            "N/A"
         ],
-        "release_date": "Apr 22, 2016",
-        "description": "8-Bit Armies is a retro Real-Time Strategy game. With a colorful, blocky voxel art style, 8-Bit Armies is Petroglyph's most fast-paced, friendly, and accessible RTS game to date. Featuring a campaign of 25 single-player missions, 12 co-op missions, multiplayer and skirmish modes.",
-        "developers": [
-            "Petroglyph"
-        ],
-        "publishers": [
-            "Petroglyph"
-        ],
-        "platforms": [
-            "windows"
-        ],
-        "languages": "English<strong>*</strong>",
-        "metacritic_score": 69,
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
+        "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": [
             {
@@ -11899,27 +11851,14 @@
         "store_url": "https://store.steampowered.com/app/1152340/",
         "playtime": 2,
         "genres": [
-            "Action",
-            "Adventure",
-            "Casual",
-            "Indie",
-            "RPG",
-            "Early Access"
+            "N/A"
         ],
-        "release_date": "Oct 11, 2021",
-        "description": "Ready your pack, grab your walking stick and step into a world of mystery. Craft your character and immerse yourself in the enchanted lands of Braided Shore.",
-        "developers": [
-            "Might and Delight"
-        ],
-        "publishers": [
-            "Might and Delight"
-        ],
-        "platforms": [
-            "windows",
-            "mac",
-            "linux"
-        ],
-        "languages": "English",
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
@@ -11933,13 +11872,11 @@
         "genres": [
             "N/A"
         ],
-        "release_date": "Mar 2, 2023",
-        "description": "",
+        "release_date": "Unknown",
+        "description": "No description available",
         "developers": [],
         "publishers": [],
-        "platforms": [
-            "windows"
-        ],
+        "platforms": [],
         "languages": "Unknown",
         "metacritic_score": "N/A",
         "screenshots": [],
@@ -11952,24 +11889,15 @@
         "store_url": "https://store.steampowered.com/app/316790/",
         "playtime": 2,
         "genres": [
-            "Adventure"
+            "N/A"
         ],
-        "release_date": "Jan 26, 2015",
-        "description": "One of the most acclaimed adventure games of all time is now back, better than ever. Grim Fandango Remastered has the all the beautiful art and engaging story fans remember, but has also been remastered to look, sound, and control even better than the award-winning original release.",
-        "developers": [
-            "Double Fine Productions",
-            "Shiny Shoe"
-        ],
-        "publishers": [
-            "Double Fine Productions"
-        ],
-        "platforms": [
-            "windows",
-            "mac",
-            "linux"
-        ],
-        "languages": "English<strong>*</strong>",
-        "metacritic_score": 84,
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
+        "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": [
             {
@@ -12011,25 +11939,14 @@
         "store_url": "https://store.steampowered.com/app/2186680/",
         "playtime": 2,
         "genres": [
-            "Action",
-            "Adventure",
-            "Indie",
-            "RPG",
-            "Strategy"
+            "N/A"
         ],
-        "release_date": "Dec 7, 2023",
-        "description": "Made in a close partnership with Games Workshop, Warhammer 40,000: Rogue Trader is a story-rich classical RPG from Owlcat Games, developers of the critically acclaimed game, Pathfinder: Wrath of the Righteous.",
-        "developers": [
-            "Owlcat Games"
-        ],
-        "publishers": [
-            "Owlcat Games"
-        ],
-        "platforms": [
-            "windows",
-            "mac"
-        ],
-        "languages": "English<strong>*</strong>",
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
@@ -12041,26 +11958,14 @@
         "store_url": "https://store.steampowered.com/app/266130/",
         "playtime": 2,
         "genres": [
-            "Action",
-            "RPG",
-            "Simulation",
-            "Strategy"
+            "N/A"
         ],
-        "release_date": "Mar 21, 2014",
-        "description": "Breach &amp; Clear brings deep tactical strategy simulation to PC, Mac and Linux! Build your Special Operations team, plan and execute advanced missions, and own every angle.Choose your real-world squad -- US Army Rangers, Germany's KSK, Canada\u2019s JTF2, UK SAS, and more -- and take on a variety of foes with different skill-sets and...",
-        "developers": [
-            "Mighty Rabbit Studios",
-            "Gun Interactive"
-        ],
-        "publishers": [
-            "Gun Interactive"
-        ],
-        "platforms": [
-            "windows",
-            "mac",
-            "linux"
-        ],
-        "languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": [
@@ -12103,27 +12008,14 @@
         "store_url": "https://store.steampowered.com/app/262410/",
         "playtime": 2,
         "genres": [
-            "Action",
-            "Casual",
-            "Indie",
-            "Simulation",
-            "Strategy",
-            "Free To Play"
+            "N/A"
         ],
-        "release_date": "May 21, 2014",
-        "description": "World of Guns: Gun Disassembly lets you delve into the inner workings of guns from the largest gears to the smallest screws",
-        "developers": [
-            "Noble Empire Corp."
-        ],
-        "publishers": [
-            "Noble Empire Corp."
-        ],
-        "platforms": [
-            "windows",
-            "mac",
-            "linux"
-        ],
-        "languages": "English",
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": [
@@ -12166,22 +12058,14 @@
         "store_url": "https://store.steampowered.com/app/3244220/",
         "playtime": 2,
         "genres": [
-            "Adventure",
-            "Indie"
+            "N/A"
         ],
-        "release_date": "Feb 7, 2025",
-        "description": "A minimalist game about digging a hole in the garden of a newly purchased house. Collect resources, sell them, upgrade your equipment and discover a mysterious secret. Costs you only one coffee!",
-        "developers": [
-            "DoubleBee"
-        ],
-        "publishers": [
-            "rokaplay select",
-            "Drillhounds"
-        ],
-        "platforms": [
-            "windows"
-        ],
-        "languages": "English",
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": [
@@ -12200,22 +12084,14 @@
         "store_url": "https://store.steampowered.com/app/404790/",
         "playtime": 2,
         "genres": [
-            "Game Development"
+            "N/A"
         ],
-        "release_date": "Feb 23, 2016",
-        "description": "Godot Engine is a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface. It provides a comprehensive set of common tools, so that you can focus on making games without having to reinvent the wheel.",
-        "developers": [
-            "Godot Engine"
-        ],
-        "publishers": [
-            "Godot Engine"
-        ],
-        "platforms": [
-            "windows",
-            "mac",
-            "linux"
-        ],
-        "languages": "English",
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
@@ -12227,22 +12103,14 @@
         "store_url": "https://store.steampowered.com/app/1113120/",
         "playtime": 2,
         "genres": [
-            "Indie",
-            "Simulation",
-            "Strategy"
+            "N/A"
         ],
-        "release_date": "Dec 7, 2022",
-        "description": "IXION is an unrelenting, city-building odyssey across the stars. As Administrator of the Tiqqun, DOLOS\u2019 prototype space station, you are tasked with balancing preservation and exploration as you manage infrastructure, resources and crew. Can you keep the flame of humanity alight in the cold dark?",
-        "developers": [
-            "Bulwark Studios"
-        ],
-        "publishers": [
-            "Kasedo Games"
-        ],
-        "platforms": [
-            "windows"
-        ],
-        "languages": "English<strong>*</strong>",
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": [
@@ -12279,22 +12147,15 @@
         "store_url": "https://store.steampowered.com/app/40970/",
         "playtime": 2,
         "genres": [
-            "Simulation",
-            "Strategy"
+            "N/A"
         ],
-        "release_date": "Oct 21, 2013",
-        "description": "The highly anticipated sequel to the best-selling Stronghold, Stronghold Crusader HD throws you into historic battles and castle sieges from the Crusades with fiendish AI opponents, new units, 4 historical campaigns and over 100 unique skirmish missions.",
-        "developers": [
-            "Firefly Studios"
-        ],
-        "publishers": [
-            "Firefly Studios"
-        ],
-        "platforms": [
-            "windows"
-        ],
-        "languages": "English<strong>*</strong>",
-        "metacritic_score": 78,
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
+        "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
     },
@@ -12324,15 +12185,21 @@
         "store_url": "https://store.steampowered.com/app/33220/",
         "playtime": 2,
         "genres": [
-            "N/A"
+            "Action"
         ],
-        "release_date": "Unknown",
-        "description": "No description available",
-        "developers": [],
-        "publishers": [],
-        "platforms": [],
-        "languages": "Unknown",
-        "metacritic_score": "N/A",
+        "release_date": "29 Apr, 2010",
+        "description": "In this stealth-action thriller, Sam Fisher investigates his daughter\u2019s death, only to uncover a betrayal by his former agency. Now hunted, he races against time to thwart a terrorist plot threatening millions.",
+        "developers": [
+            "Ubisoft Montreal"
+        ],
+        "publishers": [
+            "Ubisoft"
+        ],
+        "platforms": [
+            "windows"
+        ],
+        "languages": "English",
+        "metacritic_score": 83,
         "screenshots": [],
         "achievements": []
     },
@@ -12672,25 +12539,14 @@
         "store_url": "https://store.steampowered.com/app/305620/",
         "playtime": 1,
         "genres": [
-            "Adventure",
-            "Indie",
-            "Simulation",
-            "Strategy"
+            "N/A"
         ],
-        "release_date": "1 Aug, 2017",
-        "description": "THE LONG DARK is a thoughtful, exploration-survival experience that challenges solo players to think for themselves as they explore an expansive frozen wilderness in the aftermath of a geomagnetic disaster. There are no zombies -- only you, the cold, and all the threats Mother Nature can muster.",
-        "developers": [
-            "Hinterland Studio Inc."
-        ],
-        "publishers": [
-            "Hinterland Studio Inc."
-        ],
-        "platforms": [
-            "windows",
-            "mac",
-            "linux"
-        ],
-        "languages": "English<strong>*</strong>",
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": [
@@ -12734,14 +12590,24 @@
         "store_url": "https://store.steampowered.com/app/282800/",
         "playtime": 1,
         "genres": [
-            "N/A"
+            "Indie",
+            "Strategy"
         ],
-        "release_date": "Unknown",
-        "description": "No description available",
-        "developers": [],
-        "publishers": [],
-        "platforms": [],
-        "languages": "Unknown",
+        "release_date": "May 16, 2014",
+        "description": "100% Orange Juice is a digital multiplayer board game populated by developer Orange Juice's all-star cast. Characters from Flying Red Barrel, QP Shooting, Suguri and Sora come together with all-new characters to duke it out... with dice.",
+        "developers": [
+            "Orange_Juice",
+            "Fruitbat Factory"
+        ],
+        "publishers": [
+            "Fruitbat Factory"
+        ],
+        "platforms": [
+            "windows",
+            "mac",
+            "linux"
+        ],
+        "languages": "English",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
@@ -13033,15 +12899,24 @@
         "store_url": "https://store.steampowered.com/app/975370/",
         "playtime": 1,
         "genres": [
-            "N/A"
+            "Indie",
+            "Simulation",
+            "Strategy"
         ],
-        "release_date": "Unknown",
-        "description": "No description available",
-        "developers": [],
-        "publishers": [],
-        "platforms": [],
-        "languages": "Unknown",
-        "metacritic_score": "N/A",
+        "release_date": "6 Dec, 2022",
+        "description": "Build a fortress and try to help your dwarves survive against a deeply generated world. Keep your dwarves happy, grow their community and beware of digging too deeply. The deepest, most intricate simulation of a world that's ever been created.",
+        "developers": [
+            "Bay 12 Games"
+        ],
+        "publishers": [
+            "Kitfox Games"
+        ],
+        "platforms": [
+            "windows",
+            "linux"
+        ],
+        "languages": "English",
+        "metacritic_score": 93,
         "screenshots": [],
         "achievements": []
     },
@@ -13128,15 +13003,24 @@
         "store_url": "https://store.steampowered.com/app/255710/",
         "playtime": 1,
         "genres": [
-            "N/A"
+            "Simulation",
+            "Strategy"
         ],
-        "release_date": "Unknown",
-        "description": "No description available",
-        "developers": [],
-        "publishers": [],
-        "platforms": [],
-        "languages": "Unknown",
-        "metacritic_score": "N/A",
+        "release_date": "Mar 10, 2015",
+        "description": "Cities: Skylines is a modern take on the classic city simulation. The game introduces new game play elements to realize the thrill and hardships of creating and maintaining a real city whilst expanding on some well-established tropes of the city building experience.",
+        "developers": [
+            "Colossal Order"
+        ],
+        "publishers": [
+            "Paradox Interactive"
+        ],
+        "platforms": [
+            "windows",
+            "mac",
+            "linux"
+        ],
+        "languages": "English",
+        "metacritic_score": 85,
         "screenshots": [],
         "achievements": [
             {
@@ -13280,22 +13164,14 @@
         "store_url": "https://store.steampowered.com/app/1127400/",
         "playtime": 1,
         "genres": [
-            "Strategy"
+            "N/A"
         ],
-        "release_date": "Sep 26, 2019",
-        "description": "An open-ended factory management game with RTS and tower defense elements.",
-        "developers": [
-            "AnukenDev"
-        ],
-        "publishers": [
-            "AnukenDev"
-        ],
-        "platforms": [
-            "windows",
-            "mac",
-            "linux"
-        ],
-        "languages": "English",
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": [
@@ -13320,15 +13196,26 @@
         "store_url": "https://store.steampowered.com/app/113200/",
         "playtime": 0,
         "genres": [
-            "N/A"
+            "Action",
+            "Adventure",
+            "Indie",
+            "RPG"
         ],
-        "release_date": "Unknown",
-        "description": "No description available",
-        "developers": [],
-        "publishers": [],
-        "platforms": [],
-        "languages": "Unknown",
-        "metacritic_score": "N/A",
+        "release_date": "Sep 28, 2011",
+        "description": "Now 20% More Evil with the Free Halloween update!",
+        "developers": [
+            "Edmund McMillen",
+            "Florian Himsl"
+        ],
+        "publishers": [
+            "Edmund McMillen"
+        ],
+        "platforms": [
+            "windows",
+            "mac"
+        ],
+        "languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+        "metacritic_score": 84,
         "screenshots": [],
         "achievements": [
             {
@@ -13434,15 +13321,23 @@
         "store_url": "https://store.steampowered.com/app/287390/",
         "playtime": 0,
         "genres": [
-            "N/A"
+            "Action"
         ],
-        "release_date": "Unknown",
-        "description": "No description available",
-        "developers": [],
-        "publishers": [],
-        "platforms": [],
-        "languages": "Unknown",
-        "metacritic_score": "N/A",
+        "release_date": "Aug 25, 2014",
+        "description": "It is the year 2034. Beneath the ruins of post-apocalyptic Moscow, in the tunnels of the Metro, the remnants of mankind are besieged by deadly threats from outside \u2013 and within. Mutants stalk the catacombs beneath the desolate surface, and hunt amidst the poisoned skies above.",
+        "developers": [
+            "4A Games"
+        ],
+        "publishers": [
+            "Deep Silver"
+        ],
+        "platforms": [
+            "windows",
+            "mac",
+            "linux"
+        ],
+        "languages": "English<strong>*</strong>",
+        "metacritic_score": 76,
         "screenshots": [],
         "achievements": [
             {
@@ -13535,21 +13430,14 @@
         "store_url": "https://store.steampowered.com/app/3242750/",
         "playtime": 0,
         "genres": [
-            "Action",
-            "Adventure"
+            "N/A"
         ],
-        "release_date": "Mar 25, 2025",
-        "description": "\u201cTroll\u201d is such a strong word for this 2D platformer with nearly 240 uniquely inventive levels. Don\u2019t let screaming YouTubers convince you that this game is unfair. It\u2019s fair. Sure, there are buzzsaws but they\u2019re NICE buzzsaws. You will curse the guy who made Level Devil (Me\ud83d\ude08) then ask for more.",
-        "developers": [
-            "Unept"
-        ],
-        "publishers": [
-            "Unept"
-        ],
-        "platforms": [
-            "windows"
-        ],
-        "languages": "English",
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": [
@@ -13771,14 +13659,24 @@
         "store_url": "https://store.steampowered.com/app/1755300/",
         "playtime": 0,
         "genres": [
-            "N/A"
+            "Casual",
+            "Indie",
+            "Simulation",
+            "Strategy"
         ],
-        "release_date": "Unknown",
-        "description": "No description available",
-        "developers": [],
-        "publishers": [],
-        "platforms": [],
-        "languages": "Unknown",
+        "release_date": "Mar 26, 2022",
+        "description": "Smart Factory Tycoon inspired by Little Big Workshop is a tycoon management game about running your dream factory with robots. Design your dream factory, plan all steps of production, research new technologies and become a tycoon!",
+        "developers": [
+            "Turquoise Revival Games"
+        ],
+        "publishers": [
+            "GrabTheGames",
+            "IndieArk"
+        ],
+        "platforms": [
+            "windows"
+        ],
+        "languages": "English<strong>*</strong>",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": [
@@ -13840,14 +13738,26 @@
         "store_url": "https://store.steampowered.com/app/304930/",
         "playtime": 0,
         "genres": [
-            "N/A"
+            "Action",
+            "Adventure",
+            "Casual",
+            "Indie",
+            "Free To Play"
         ],
-        "release_date": "Unknown",
-        "description": "No description available",
-        "developers": [],
-        "publishers": [],
-        "platforms": [],
-        "languages": "Unknown",
+        "release_date": "Jul 7, 2017",
+        "description": "You're a survivor in the zombie infested ruins of society, and must work with your friends and forge alliances to remain among the living.",
+        "developers": [
+            "Smartly Dressed Games"
+        ],
+        "publishers": [
+            "Smartly Dressed Games"
+        ],
+        "platforms": [
+            "windows",
+            "mac",
+            "linux"
+        ],
+        "languages": "English",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
@@ -13859,25 +13769,14 @@
         "store_url": "https://store.steampowered.com/app/307690/",
         "playtime": 0,
         "genres": [
-            "Action",
-            "Adventure",
-            "Racing"
+            "N/A"
         ],
-        "release_date": "8 Oct, 2014",
-        "description": "The Definitive Edition of the critically acclaimed, award winning open-world action adventure, reworked, rebuilt and re-mastered for the new generation. With all previously available DLC included and a wealth of tech and visual improvements, Hong Kong has never felt so alive.",
-        "developers": [
-            "United Front Games",
-            "Feral Interactive (Mac)"
-        ],
-        "publishers": [
-            "Square Enix",
-            "Feral Interactive (Mac)"
-        ],
-        "platforms": [
-            "windows",
-            "mac"
-        ],
-        "languages": "English<strong>*</strong>",
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
@@ -13971,7 +13870,7 @@
             "Simulation",
             "Sports"
         ],
-        "release_date": "Jan 29, 2026",
+        "release_date": "29 Jan, 2026",
         "description": "Reach a summit never climbed before in this survival-climber from the creators of Furi and Haven. Climb anywhere and plan your route carefully, managing pitons and resources to survive unforgiving Mount Kami. Discover what Aava is willing to sacrifice to achieve the ascent of a lifetime.",
         "developers": [
             "The Game Bakers"
@@ -14001,26 +13900,14 @@
         "store_url": "https://store.steampowered.com/app/4700/",
         "playtime": 0,
         "genres": [
-            "Strategy"
+            "N/A"
         ],
-        "release_date": "Nov 15, 2006",
-        "description": "Spanning the most turbulent era in Western history, your quest for territory and power takes you through Europe, Africa, the Middle East, and even onto the shores of the New World.",
-        "developers": [
-            "CREATIVE ASSEMBLY",
-            "Feral Interactive (Mac)",
-            "Feral Interactive (Linux)"
-        ],
-        "publishers": [
-            "SEGA",
-            "Feral Interactive (Mac)",
-            "Feral Interactive (Linux)"
-        ],
-        "platforms": [
-            "windows",
-            "mac",
-            "linux"
-        ],
-        "languages": "English<strong>*</strong>",
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
@@ -14129,15 +14016,24 @@
         "store_url": "https://store.steampowered.com/app/245620/",
         "playtime": 0,
         "genres": [
-            "N/A"
+            "RPG",
+            "Simulation",
+            "Strategy"
         ],
-        "release_date": "Unknown",
-        "description": "No description available",
-        "developers": [],
-        "publishers": [],
-        "platforms": [],
-        "languages": "Unknown",
-        "metacritic_score": "N/A",
+        "release_date": "23 May, 2014",
+        "description": "Return to the remote island nation of Tropico and expand your Dynasty\u2019s reign from the early colonial period to beyond the 21st Century, facing new challenges including advanced trading mechanics, technology and scientific research, as well as cooperative and competitive MULTIPLAYER.",
+        "developers": [
+            "Haemimont Games"
+        ],
+        "publishers": [
+            "Kalypso Media Digital"
+        ],
+        "platforms": [
+            "windows",
+            "linux"
+        ],
+        "languages": "English<strong>*</strong>",
+        "metacritic_score": 75,
         "screenshots": [],
         "achievements": []
     },
@@ -14167,15 +14063,25 @@
         "store_url": "https://store.steampowered.com/app/893850/",
         "playtime": 0,
         "genres": [
-            "N/A"
+            "Adventure",
+            "Indie",
+            "RPG"
         ],
-        "release_date": "Unknown",
-        "description": "No description available",
-        "developers": [],
-        "publishers": [],
-        "platforms": [],
-        "languages": "Unknown",
-        "metacritic_score": "N/A",
+        "release_date": "5 Mar, 2020",
+        "description": "An unusual mix of adventure and idle game. In utter loneliness deep below the surface, it's your task to wait for the awakening of your king... for 400 days.",
+        "developers": [
+            "Studio Seufz"
+        ],
+        "publishers": [
+            "Application Systems Heidelberg"
+        ],
+        "platforms": [
+            "windows",
+            "mac",
+            "linux"
+        ],
+        "languages": "English",
+        "metacritic_score": 79,
         "screenshots": [],
         "achievements": [
             {
@@ -14197,7 +14103,7 @@
             "Adventure",
             "Racing"
         ],
-        "release_date": "Mar 4, 2025",
+        "release_date": "4 Mar, 2025",
         "description": "Experience entertainment blockbusters Grand Theft Auto V and Grand Theft Auto Online \u2014 now upgraded for a new generation with stunning visuals, faster loading, 3D audio, and more, plus exclusive content for GTA Online players.",
         "developers": [
             "Rockstar North"
@@ -14239,15 +14145,22 @@
         "store_url": "https://store.steampowered.com/app/281610/",
         "playtime": 0,
         "genres": [
-            "N/A"
+            "Strategy"
         ],
-        "release_date": "Unknown",
-        "description": "No description available",
-        "developers": [],
-        "publishers": [],
-        "platforms": [],
-        "languages": "Unknown",
-        "metacritic_score": "N/A",
+        "release_date": "20 Jan, 2016",
+        "description": "A ground-based RTS prequel to the classic Homeworld games. Assemble your fleet and lead them to victory on the shifting sands of Kharak in this compelling strategy game for PC from Blackbird Interactive.",
+        "developers": [
+            "Blackbird Interactive"
+        ],
+        "publishers": [
+            "Gearbox Publishing"
+        ],
+        "platforms": [
+            "windows",
+            "mac"
+        ],
+        "languages": "English<strong>*</strong>",
+        "metacritic_score": 79,
         "screenshots": [],
         "achievements": [
             {
@@ -14269,7 +14182,7 @@
             "Indie",
             "Strategy"
         ],
-        "release_date": "23 Jul, 2015",
+        "release_date": "Jul 23, 2015",
         "description": "In this last chapter of the Five Nights at Freddy's original story, you must once again defend yourself against Freddy Fazbear, Chica, Bonnie, Foxy, and even worse things that lurk in the shadows.",
         "developers": [
             "Scott Cawthon"
@@ -14387,14 +14300,23 @@
         "store_url": "https://store.steampowered.com/app/1857080/",
         "playtime": 0,
         "genres": [
-            "N/A"
+            "Indie",
+            "Simulation",
+            "Strategy"
         ],
-        "release_date": "Unknown",
-        "description": "No description available",
-        "developers": [],
-        "publishers": [],
-        "platforms": [],
-        "languages": "Unknown",
+        "release_date": "3 Feb, 2026",
+        "description": "The Last Starship is a 2D space construction game where you design and upgrade your starship. Choose your path: pirate hunter, miner, engineer, spacebus driver, and more, whilst exploring vibrant star systems. Enjoy a growing sandbox world, with regular free updates. Your cosmic adventure awaits!",
+        "developers": [
+            "Introversion Software"
+        ],
+        "publishers": [
+            "Introversion Software"
+        ],
+        "platforms": [
+            "windows",
+            "mac"
+        ],
+        "languages": "English<strong>*</strong>",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
@@ -14653,15 +14575,22 @@
         "store_url": "https://store.steampowered.com/app/15100/",
         "playtime": 0,
         "genres": [
-            "N/A"
+            "Action",
+            "Adventure"
         ],
-        "release_date": "Unknown",
-        "description": "No description available",
-        "developers": [],
-        "publishers": [],
-        "platforms": [],
-        "languages": "Unknown",
-        "metacritic_score": "N/A",
+        "release_date": "9 Apr, 2008",
+        "description": "Assassin's Creed\u2122 is the next-gen game developed by Ubisoft Montreal that redefines the action genre. While other games claim to be next-gen with impressive graphics and physics, Assassin's Creed merges technology, game design, theme and emotions into a world where you instigate chaos and become a vulnerable, yet powerful, agent of...",
+        "developers": [
+            "Ubisoft Montreal"
+        ],
+        "publishers": [
+            "Ubisoft"
+        ],
+        "platforms": [
+            "windows"
+        ],
+        "languages": "English",
+        "metacritic_score": 79,
         "screenshots": [],
         "achievements": []
     },
@@ -14748,21 +14677,15 @@
         "store_url": "https://store.steampowered.com/app/21800/",
         "playtime": 0,
         "genres": [
-            "Strategy"
+            "N/A"
         ],
-        "release_date": "Feb 25, 2009",
-        "description": "Live the thrilling career of an army commander and lead your army to victory in a massive online World War III! Take control of the U.S.-led Joint Strike Force, the European Enforcers Corps, or the Russian Spetsnaz Guards Brigade in a persistent ongoing World War.",
-        "developers": [
-            "Ubisoft  Shangha\u00ef"
-        ],
-        "publishers": [
-            "Ubisoft"
-        ],
-        "platforms": [
-            "windows"
-        ],
-        "languages": "English",
-        "metacritic_score": 68,
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
+        "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
     },
@@ -14776,7 +14699,7 @@
             "Action",
             "Adventure"
         ],
-        "release_date": "Mar 9, 2010",
+        "release_date": "4 Mar, 2010",
         "description": "An epic story of family, vengeance and conspiracy set in the pristine, yet brutal, backdrop of a Renaissance Italy. New low price!",
         "developers": [
             "Ubisoft Montreal"
@@ -14825,22 +14748,15 @@
         "store_url": "https://store.steampowered.com/app/41700/",
         "playtime": 0,
         "genres": [
-            "Action",
-            "RPG"
+            "N/A"
         ],
-        "release_date": "Feb 11, 2010",
-        "description": "S.T.A.L.K.E.R.: Call of Pripyat is the direct sequel of the S.T.A.L.K.E.R.: Shadow of Chernobyl. As a Major Alexander Degtyarev you should investigate the crash of the governmental helicopters around the Zone and find out, what happened there.",
-        "developers": [
-            "GSC Game World"
-        ],
-        "publishers": [
-            "GSC Game World"
-        ],
-        "platforms": [
-            "windows"
-        ],
-        "languages": "German<strong>*</strong>",
-        "metacritic_score": 80,
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
+        "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
     },
@@ -14870,21 +14786,15 @@
         "store_url": "https://store.steampowered.com/app/46510/",
         "playtime": 0,
         "genres": [
-            "Adventure"
+            "N/A"
         ],
-        "release_date": "May 19, 2011",
-        "description": "Having searched Eastern and Western Europe for a missing heir, Kate Walker finally completed her long and arduous journey, obtaining the signature of Hans Voralberg and closing the automaton factory buyout.",
-        "developers": [
-            "Microids"
-        ],
-        "publishers": [
-            "Microids"
-        ],
-        "platforms": [
-            "windows"
-        ],
-        "languages": "English<strong>*</strong>",
-        "metacritic_score": 80,
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
+        "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
     },
@@ -14895,27 +14805,15 @@
         "store_url": "https://store.steampowered.com/app/113020/",
         "playtime": 0,
         "genres": [
-            "Action",
-            "Adventure",
-            "Casual",
-            "Indie",
-            "Strategy"
+            "N/A"
         ],
-        "release_date": "Apr 24, 2013",
-        "description": "Monaco: What's Yours Is Mine is a single player or co-op heist game. Assemble a crack team of thieves, case the joint, and pull off the perfect heist.",
-        "developers": [
-            "Pocketwatch Games"
-        ],
-        "publishers": [
-            "Balor Games"
-        ],
-        "platforms": [
-            "windows",
-            "mac",
-            "linux"
-        ],
-        "languages": "English",
-        "metacritic_score": 83,
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
+        "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
     },
@@ -14929,7 +14827,7 @@
             "Action",
             "Adventure"
         ],
-        "release_date": "Sep 7, 2012",
+        "release_date": "7 Sep, 2012",
         "description": "Get Batman: Arkham City and all DLC for one low price with the release of the GOTY Edition!",
         "developers": [
             "Rocksteady Studios"
@@ -14955,7 +14853,7 @@
             "Action",
             "Adventure"
         ],
-        "release_date": "Nov 29, 2011",
+        "release_date": "30 Nov, 2011",
         "description": "Ezio Auditore walks in the footsteps of the legendary mentor Altair, on a dangerous journey of discovery and revelation.",
         "developers": [
             "Ubisoft Montreal"
@@ -14978,23 +14876,15 @@
         "store_url": "https://store.steampowered.com/app/207320/",
         "playtime": 0,
         "genres": [
-            "Action",
-            "Adventure",
-            "RPG"
+            "N/A"
         ],
-        "release_date": "Mar 19, 2012",
-        "description": "An Action RPG driven by fast-paced combat and paired with an intricate puzzle-filled world.",
-        "developers": [
-            "Nihon Falcom"
-        ],
-        "publishers": [
-            "XSEED Games"
-        ],
-        "platforms": [
-            "windows"
-        ],
-        "languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-        "metacritic_score": 73,
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
+        "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
     },
@@ -15007,7 +14897,7 @@
         "genres": [
             "Adventure"
         ],
-        "release_date": "Apr 24, 2012",
+        "release_date": "24 Apr, 2012",
         "description": "A five-part adventure horror series set in the same universe as Robert Kirkman\u2019s award-winning comic book series.",
         "developers": [
             "Telltale Games"
@@ -15031,24 +14921,15 @@
         "store_url": "https://store.steampowered.com/app/216910/",
         "playtime": 0,
         "genres": [
-            "Action",
-            "RPG"
+            "N/A"
         ],
-        "release_date": "Oct 11, 2012",
-        "description": "You have been appointed to fulfill an extremely dangerous mission, deep in enemy territory: to kill one man... the Emperor himself. Lead the revolution of the Orcs and Goblins!",
-        "developers": [
-            "Cyanide Studio",
-            "Spiders"
-        ],
-        "publishers": [
-            "Cyanide Studio",
-            "Nacon"
-        ],
-        "platforms": [
-            "windows"
-        ],
-        "languages": "English<strong>*</strong>",
-        "metacritic_score": 69,
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
+        "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
     },
@@ -15059,23 +14940,15 @@
         "store_url": "https://store.steampowered.com/app/225080/",
         "playtime": 0,
         "genres": [
-            "Action",
-            "Adventure",
-            "Indie"
+            "N/A"
         ],
-        "release_date": "Sep 3, 2013",
-        "description": "Guide two brothers on an epic fairy tale journey from visionary Swedish film director, Josef Fares and top-tier developer Starbreeze Studios. Control both brothers at once as you experience co-op play in single player mode, like never before.",
-        "developers": [
-            "Starbreeze Studios AB"
-        ],
-        "publishers": [
-            "505 Games"
-        ],
-        "platforms": [
-            "windows"
-        ],
-        "languages": "English",
-        "metacritic_score": 90,
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
+        "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
     },
@@ -15089,7 +14962,7 @@
             "RPG",
             "Strategy"
         ],
-        "release_date": "Mar 31, 2014",
+        "release_date": "31 Mar, 2014",
         "description": "Age of Wonders III is the long anticipated sequel to the award-winning strategy series. Delivering a unique mix of Empire Building, Role Playing and Warfare, Age of Wonders III offers the ultimate in turn-based fantasy strategy for veterans of the series and new players alike!",
         "developers": [
             "Triumph Studios"
@@ -15133,25 +15006,15 @@
         "store_url": "https://store.steampowered.com/app/244160/",
         "playtime": 0,
         "genres": [
-            "Simulation",
-            "Strategy"
+            "N/A"
         ],
-        "release_date": "Feb 25, 2015",
-        "description": "Experience the epic space strategy games that redefined the RTS genre. Control your fleet and build an armada across more than 30 single-player missions. Choose unit types, fleet formations and flight tactics for each strategic situation.",
-        "developers": [
-            "Gearbox Software",
-            "Aspyr (Mac)"
-        ],
-        "publishers": [
-            "Gearbox Publishing",
-            "Aspyr (Mac)"
-        ],
-        "platforms": [
-            "windows",
-            "mac"
-        ],
-        "languages": "English<strong>*</strong>",
-        "metacritic_score": 86,
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
+        "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
     },
@@ -15162,25 +15025,15 @@
         "store_url": "https://store.steampowered.com/app/248820/",
         "playtime": 0,
         "genres": [
-            "Action",
-            "Indie",
-            "RPG"
+            "N/A"
         ],
-        "release_date": "Nov 8, 2013",
-        "description": "Risk of Rain is an action platformer with roguelike elements. With permanent death as a primary feature, players will have to play their best to get as far as possible. Fight on a mysterious planet with randomly spawning enemies and bosses, either alone or with 3 friends in online co-op.",
-        "developers": [
-            "Hopoo Games"
-        ],
-        "publishers": [
-            "Gearbox Publishing"
-        ],
-        "platforms": [
-            "windows",
-            "mac",
-            "linux"
-        ],
-        "languages": "English",
-        "metacritic_score": 77,
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
+        "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
     },
@@ -15191,22 +15044,14 @@
         "store_url": "https://store.steampowered.com/app/269250/",
         "playtime": 0,
         "genres": [
-            "Indie"
+            "N/A"
         ],
-        "release_date": "Jun 17, 2014",
-        "description": "From the author of Spice and Wolf, Isuna Hasekura, comes WORLD END ECONOMiCA. This is the first episode out of three part sci-fi/economic thriller visual novel set on the moon.",
-        "developers": [
-            "Spicy Tails"
-        ],
-        "publishers": [
-            "Sekai Project"
-        ],
-        "platforms": [
-            "windows",
-            "mac",
-            "linux"
-        ],
-        "languages": "English",
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
@@ -15218,22 +15063,15 @@
         "store_url": "https://store.steampowered.com/app/273350/",
         "playtime": 0,
         "genres": [
-            "Action",
-            "Free To Play"
+            "N/A"
         ],
-        "release_date": "Feb 10, 2015",
-        "description": "Play Evolve for free with Evolve Stage 2! Evolve Stage 2 is a next-generation free multiplayer shooter featuring addictive 4v1 gameplay. One player-controlled monster must evade and outsmart a team of four uniquely skilled hunters.",
-        "developers": [
-            "Turtle Rock Studios"
-        ],
-        "publishers": [
-            "2K"
-        ],
-        "platforms": [
-            "windows"
-        ],
-        "languages": "English<strong>*</strong>",
-        "metacritic_score": 77,
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
+        "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
     },
@@ -15247,7 +15085,7 @@
             "Action",
             "Adventure"
         ],
-        "release_date": "Feb 25, 2014",
+        "release_date": "25 Feb, 2014",
         "description": "Play as Adewale, an ex-slave turned Assassin fighting for freedom with the help of his own Pirate crew.",
         "developers": [
             "Ubisoft Montreal"
@@ -15270,27 +15108,14 @@
         "store_url": "https://store.steampowered.com/app/310890/",
         "playtime": 0,
         "genres": [
-            "Action",
-            "Indie",
-            "RPG",
-            "Strategy"
+            "N/A"
         ],
-        "release_date": "Jul 20, 2015",
-        "description": "A deadly new breed of human monster is on the rise, and it\u2019s up to players to stop the infestation before it spreads. Breach &amp; Clear: DEADline Rebirth is a new and greatly improved version of B&amp;C: Deadline, the follow-up to Breach &amp; Clear, the critically acclaimed hybrid tactical strategy game.",
-        "developers": [
-            "Mighty Rabbit Studios",
-            "Gun Media"
-        ],
-        "publishers": [
-            "Good Shepherd Entertainment",
-            "Devolver Digital"
-        ],
-        "platforms": [
-            "windows",
-            "mac",
-            "linux"
-        ],
-        "languages": "English<strong>*</strong>",
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
@@ -15305,7 +15130,7 @@
             "Action",
             "Adventure"
         ],
-        "release_date": "Mar 9, 2015",
+        "release_date": "9 Mar, 2015",
         "description": "Introducing Assassin\u2019s Creed\u00ae Rogue, the darkest chapter in the Assassin\u2019s Creed franchise yet. As Shay, you will experience the slow transformation from Assassin to Assassin Hunter. Follow your own creed and set off on an extraordinary journey through New York City, the wild river valley, and far away to the icy cold waters of the North...",
         "developers": [
             "Ubisoft Sofia",
@@ -15329,24 +15154,14 @@
         "store_url": "https://store.steampowered.com/app/312840/",
         "playtime": 0,
         "genres": [
-            "Adventure",
-            "RPG"
+            "N/A"
         ],
-        "release_date": "Jan 28, 2015",
-        "description": "Fahrenheit (known as Indigo Prophecy in North America) was a breakthrough in interactive narrative. This newly remastered edition features updated textures in HD, expanded controller support, and is based on the uncut and uncensored international version of the game.",
-        "developers": [
-            "Quantic Dream",
-            "Aspyr Media (remastered version)"
-        ],
-        "publishers": [
-            "Quantic Dream"
-        ],
-        "platforms": [
-            "windows",
-            "mac",
-            "linux"
-        ],
-        "languages": "English<strong>*</strong>",
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
@@ -15358,24 +15173,14 @@
         "store_url": "https://store.steampowered.com/app/332500/",
         "playtime": 0,
         "genres": [
-            "Action",
-            "Adventure",
-            "Indie",
-            "RPG",
-            "Early Access"
+            "N/A"
         ],
-        "release_date": "Jan 8, 2015",
-        "description": "GRAV is a sand box experience where you explore a multitude of planets, hunt strange alien creatures, build and defend outposts, craft weapons and armor, and attempt to survive against other players in a hostile environment.",
-        "developers": [
-            "BitMonster, Inc."
-        ],
-        "publishers": [
-            "BitMonster, Inc."
-        ],
-        "platforms": [
-            "windows"
-        ],
-        "languages": "English",
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
@@ -15387,21 +15192,14 @@
         "store_url": "https://store.steampowered.com/app/333600/",
         "playtime": 0,
         "genres": [
-            "Casual",
-            "Indie"
+            "N/A"
         ],
-        "release_date": "Dec 29, 2014",
-        "description": "What's NEKOPARA? Why, it's a cat paradise! Kashou Minaduki, the son of a long line of Japanese confection makers moved out to open his own shop &quot;La Soleil&quot; as a patisserie.",
-        "developers": [
-            "NEKO WORKs"
-        ],
-        "publishers": [
-            "Sekai Project"
-        ],
-        "platforms": [
-            "windows"
-        ],
-        "languages": "English",
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
@@ -15413,27 +15211,15 @@
         "store_url": "https://store.steampowered.com/app/345180/",
         "playtime": 0,
         "genres": [
-            "Action",
-            "Adventure",
-            "Indie",
-            "RPG"
+            "N/A"
         ],
-        "release_date": "Jul 24, 2015",
-        "description": "Victor Vran is the isometric action-RPG where your skill is just as essential as your character build and gear. Experience intense combat action: dodge, jump and unleash powerful skills to finish off your enemies!",
-        "developers": [
-            "Haemimont Games"
-        ],
-        "publishers": [
-            "Haemimont Games",
-            "EuroVideo Medien"
-        ],
-        "platforms": [
-            "windows",
-            "mac",
-            "linux"
-        ],
-        "languages": "English<strong>*</strong>",
-        "metacritic_score": 75,
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
+        "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
     },
@@ -15444,23 +15230,14 @@
         "store_url": "https://store.steampowered.com/app/368160/",
         "playtime": 0,
         "genres": [
-            "Casual",
-            "Indie"
+            "N/A"
         ],
-        "release_date": "Jul 21, 2015",
-        "description": "From the creator of Spice and Wolf, Isuna Hasekura, comes World End Economica. Haru woke up with his life but without his dream. 4 years after the incident, he finds a new cause, as a driven young lady offers him a chance to return to investing and to find justice.",
-        "developers": [
-            "Spicy Tails"
-        ],
-        "publishers": [
-            "Sekai Project"
-        ],
-        "platforms": [
-            "windows",
-            "mac",
-            "linux"
-        ],
-        "languages": "English",
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
@@ -15472,21 +15249,14 @@
         "store_url": "https://store.steampowered.com/app/385800/",
         "playtime": 0,
         "genres": [
-            "Casual",
-            "Indie"
+            "N/A"
         ],
-        "release_date": "Aug 17, 2015",
-        "description": "Please note that NEKOPARA Vol. 0 is a fandisc for NEKOPARA Vol. 1What's NEKOPARA? Why, it's a cat paradise! This is a story just before Kashou opened &quot;La Soleil&quot;.Enjoy a page from the leisurely, daily lives of Shigure and the Minaduki household's catgirls!",
-        "developers": [
-            "NEKO WORKs"
-        ],
-        "publishers": [
-            "Sekai Project"
-        ],
-        "platforms": [
-            "windows"
-        ],
-        "languages": "English",
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
@@ -15498,22 +15268,14 @@
         "store_url": "https://store.steampowered.com/app/386970/",
         "playtime": 0,
         "genres": [
-            "Adventure",
-            "Casual",
-            "Indie"
+            "N/A"
         ],
-        "release_date": "Nov 4, 2016",
-        "description": "Japan, 2030 A.D. Memories can now be digitized and archived, allowing people to communicate with the deceased. With only one week left before his best friend\u2019s memories are deleted, can Hiroki uncover the truth behind Sorano\u2019s death?",
-        "developers": [
-            "Liz-Arts"
-        ],
-        "publishers": [
-            "Sekai Project"
-        ],
-        "platforms": [
-            "windows"
-        ],
-        "languages": "English",
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
@@ -15525,22 +15287,15 @@
         "store_url": "https://store.steampowered.com/app/397540/",
         "playtime": 0,
         "genres": [
-            "Action",
-            "RPG"
+            "N/A"
         ],
-        "release_date": "Mar 13, 2020",
-        "description": "The original shooter-looter returns, packing bazillions of guns and a mayhem-fueled adventure! Blast through new worlds and enemies as one of four new Vault Hunters.",
-        "developers": [
-            "Gearbox Software"
-        ],
-        "publishers": [
-            "2K"
-        ],
-        "platforms": [
-            "windows"
-        ],
-        "languages": "English<strong>*</strong>",
-        "metacritic_score": 81,
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
+        "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
     },
@@ -15551,23 +15306,14 @@
         "store_url": "https://store.steampowered.com/app/400750/",
         "playtime": 0,
         "genres": [
-            "Action",
-            "Simulation",
-            "Strategy"
+            "N/A"
         ],
-        "release_date": "Jun 11, 2021",
-        "description": "Call to Arms - Gates of Hell is a realistic RTS/ RTT game that offers endless replay value. Command all types of troops in historical singleplayer, dynamic campaign, PvP and PvE battles. Are you ready for some serious immersion in World War 2?",
-        "developers": [
-            "Barbedwire Studios",
-            "Digitalmindsoft"
-        ],
-        "publishers": [
-            "Digitalmindsoft"
-        ],
-        "platforms": [
-            "windows"
-        ],
-        "languages": "English<strong>*</strong>",
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
@@ -15579,21 +15325,14 @@
         "store_url": "https://store.steampowered.com/app/420110/",
         "playtime": 0,
         "genres": [
-            "Casual",
-            "Indie"
+            "N/A"
         ],
-        "release_date": "Feb 19, 2016",
-        "description": "Business is booming for La Soleil, the patisserie run by Kashou Minaduki with his two catgirls, Chocola and Vanilla, his sister Shigure, and the Minaduki family's four catgirl sisters.",
-        "developers": [
-            "NEKO WORKs"
-        ],
-        "publishers": [
-            "Sekai Project"
-        ],
-        "platforms": [
-            "windows"
-        ],
-        "languages": "English",
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
@@ -15605,23 +15344,14 @@
         "store_url": "https://store.steampowered.com/app/463530/",
         "playtime": 0,
         "genres": [
-            "Simulation",
-            "Strategy"
+            "N/A"
         ],
-        "release_date": "Jun 7, 2024",
-        "description": "Command swarms of warriors at an unprecedented scale of warfare in this blend of RTS and base-building. Lead ant colonies against the many fearsome threats of the insect world, while building intricate nests, developing pheromone-based tactics, and evolving to meet growing dangers.",
-        "developers": [
-            "Slug Disco"
-        ],
-        "publishers": [
-            "Hooded Horse",
-            "Slug Disco"
-        ],
-        "platforms": [
-            "windows",
-            "mac"
-        ],
-        "languages": "English<strong>*</strong>",
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
@@ -15633,21 +15363,14 @@
         "store_url": "https://store.steampowered.com/app/464340/",
         "playtime": 0,
         "genres": [
-            "Adventure"
+            "N/A"
         ],
-        "release_date": "Nov 13, 2017",
-        "description": "The next generation in adventure games, Syberia 3 takes you inside an enchanting, mysterious universe full of life for you to explore in 3D. Plunged into the heart of a world inhabited by a cast of interesting characters, you'll discover and experience a fabulous tale as imagined by Benoit Sokal.",
-        "developers": [
-            "Microids"
-        ],
-        "publishers": [
-            "Microids"
-        ],
-        "platforms": [
-            "windows",
-            "mac"
-        ],
-        "languages": "English<strong>*</strong>",
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
@@ -15659,21 +15382,14 @@
         "store_url": "https://store.steampowered.com/app/487430/",
         "playtime": 0,
         "genres": [
-            "Casual",
-            "Indie"
+            "N/A"
         ],
-        "release_date": "Jun 27, 2016",
-        "description": "KARAKARA. It is the sound of aridity. It is the sound of dry asphalt and sandy winds. It is the sound of relentless sunshine, as well as the sound of a withering race.",
-        "developers": [
-            "calme"
-        ],
-        "publishers": [
-            "Sekai Project"
-        ],
-        "platforms": [
-            "windows"
-        ],
-        "languages": "English",
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
@@ -15690,7 +15406,7 @@
             "Simulation",
             "Strategy"
         ],
-        "release_date": "Jul 25, 2016",
+        "release_date": "25 Jul, 2016",
         "description": "Just Deserts is a sci-fi action dating sim where you play as a soldier who must protect a city from mysterious alien attack, while at the same time you will also be seeking to capture the heart of your dream girl(s)! Theme song by Vesuvia [Ecky], vocal track by iMochi",
         "developers": [
             "Vifth Floor"
@@ -15715,22 +15431,15 @@
         "store_url": "https://store.steampowered.com/app/489630/",
         "playtime": 0,
         "genres": [
-            "Strategy"
+            "N/A"
         ],
-        "release_date": "Jul 12, 2018",
-        "description": "Warhammer 40,000: Gladius \u2013 Relics of War brings you to a world of terror and violence. Four factions will engage in a brutal war for dominance over the planet\u2019s resources. In the first turn-based 4X strategy game set in Warhammer 40,000 you will lead one of four unique factions.",
-        "developers": [
-            "Proxy Studios"
-        ],
-        "publishers": [
-            "Slitherine Ltd."
-        ],
-        "platforms": [
-            "windows",
-            "linux"
-        ],
-        "languages": "English<strong>*</strong>",
-        "metacritic_score": 71,
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
+        "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
     },
@@ -15741,21 +15450,14 @@
         "store_url": "https://store.steampowered.com/app/490890/",
         "playtime": 0,
         "genres": [
-            "Adventure",
-            "Casual"
+            "N/A"
         ],
-        "release_date": "Oct 26, 2016",
-        "description": "\u201cLen, you are going to abandon this town... and die\u2014today\u201d Since her reunion with Shinonome, Len's life is thrust into an all new \u201creality,\u201d and the curtain which hid the \u201ctruth\u201d of this new world is been lifted.",
-        "developers": [
-            "Kuro Irodoru Yomiji"
-        ],
-        "publishers": [
-            "Sekai Project"
-        ],
-        "platforms": [
-            "windows"
-        ],
-        "languages": "English",
+        "release_date": "Unknown",
+        "description": "No description available",
+        "developers": [],
+        "publishers": [],
+        "platforms": [],
+        "languages": "Unknown",
         "metacritic_score": "N/A",
         "screenshots": [],
         "achievements": []
@@ -15994,7 +15696,7 @@
         "genres": [
             "Action"
         ],
-        "release_date": "8 Aug, 2018",
+        "release_date": "Aug 8, 2018",
         "description": "Welcome to a new world! In Monster Hunter: World, the latest installment in the series, you can enjoy the ultimate hunting experience, using everything at your disposal to hunt monsters in a new world teeming with surprises and excitement.",
         "developers": [
             "CAPCOM Co., Ltd."
@@ -16021,7 +15723,7 @@
             "Adventure",
             "RPG"
         ],
-        "release_date": "Oct 26, 2017",
+        "release_date": "26 Oct, 2017",
         "description": "Explore Ancient Egypt in this action-adventure game. Battle powerful enemies, unveil conspiracies, and discover the origin story of the Assassin\u2019s Brotherhood.",
         "developers": [
             "Ubisoft Montreal"
@@ -16050,7 +15752,7 @@
             "RPG",
             "Strategy"
         ],
-        "release_date": "5 Sep, 2023",
+        "release_date": "May 24, 2017",
         "description": "Played by over 20 million Adventurers - Black Desert Online is an open-world, action MMORPG. Experience intense, action-packed combat, battle massive world bosses, fight alongside friends to siege and conquer castles, and train in professions such as fishing, trading, crafting, cooking, and more!",
         "developers": [
             "Pearl Abyss"
@@ -16132,7 +15834,7 @@
         "genres": [
             "Strategy"
         ],
-        "release_date": "16 Jun, 2020",
+        "release_date": "Jun 16, 2020",
         "description": "Desperados III is a story-driven, hardcore tactical stealth game, set in a ruthless Wild West scenario. Play smart if you want to succeed. A good plan can make the difference between survival and finding yourself at the business end of a pistol.",
         "developers": [
             "Mimimi Games"
@@ -16626,7 +16328,7 @@
         "genres": [
             "Action"
         ],
-        "release_date": "13 Nov, 2018",
+        "release_date": "Nov 13, 2018",
         "description": "Travel the globe and track your targets across exotic sandbox locations in HITMAN\u2122 2. From sun-drenched streets to dark and dangerous rainforests, nowhere is safe from the world\u2019s most creative assassin, Agent 47 in the ultimate spy thriller story.",
         "developers": [
             "IO Interactive A/S"
@@ -16643,32 +16345,6 @@
         "achievements": []
     },
     {
-        "name": "NEKOPARA Extra",
-        "icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/899970/dc8a35b04deece2b870c4ea8c5e46283d822932e.jpg",
-        "logo_url": "https://media.steampowered.com/steamcommunity/public/images/apps/899970/dc8a35b04deece2b870c4ea8c5e46283d822932e.jpg",
-        "store_url": "https://store.steampowered.com/app/899970/",
-        "playtime": 0,
-        "genres": [
-            "Casual",
-            "Indie"
-        ],
-        "release_date": "Jul 26, 2018",
-        "description": "About half a year before the opening of the patisserie, La Soleil where the catgirls work with Kashou. Back when Chocola and Vanilla were still kittens when they first arrived at the Minaduki household and before they opened up to the other catgirls.",
-        "developers": [
-            "NEKO WORKs"
-        ],
-        "publishers": [
-            "Sekai Project"
-        ],
-        "platforms": [
-            "windows"
-        ],
-        "languages": "English",
-        "metacritic_score": "N/A",
-        "screenshots": [],
-        "achievements": []
-    },
-    {
         "name": "Assassin's Creed III Remastered",
         "icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/911400/68e5640754e5ddf29aadff49062fa68cc8c8f4a5.jpg",
         "logo_url": "https://media.steampowered.com/steamcommunity/public/images/apps/911400/68e5640754e5ddf29aadff49062fa68cc8c8f4a5.jpg",
@@ -16678,7 +16354,7 @@
             "Action",
             "Adventure"
         ],
-        "release_date": "Mar 29, 2019",
+        "release_date": "29 Mar, 2019",
         "description": "Relive the American Revolution or experience it for the first time in Assassin's Creed\u00ae III Remastered, with enhanced graphics and improved gameplay mechanics. Also includes Assassin's Creed Liberation remastered and all solo DLC content.",
         "developers": [
             "Ubisoft Entertainment"
@@ -16705,7 +16381,7 @@
             "Simulation",
             "Strategy"
         ],
-        "release_date": "Jun 21, 2022",
+        "release_date": "21 Jun, 2022",
         "description": "Good Company is an in-depth management sim about building a trail-blazing tech corporation. Assemble complex production lines, manage employee logistics, and sell high-quality products on the market to become the best company in the whole county!",
         "developers": [
             "Chasing Carrots"
@@ -16758,7 +16434,7 @@
         "genres": [
             "RPG"
         ],
-        "release_date": "Dec 13, 2019",
+        "release_date": "13 Dec, 2019",
         "description": "The Kingdom of Myrtana has been invaded by an implacable horde of orcs. King Rhobar II, in need of a large quantity of magical ore in order to forge powerful weapons, operates the Khorinis mines with all available prisoners.",
         "developers": [
             "THQ Nordic Barcelona"
@@ -16916,7 +16592,7 @@
             "RPG",
             "Strategy"
         ],
-        "release_date": "Aug 22, 2024",
+        "release_date": "22 Aug, 2024",
         "description": "In Tactical Breach Wizards, you lead a team of renegade wizards in kevlar through turn-based battles to unravel a modern conspiracy plot. Combine their unique spells in clever ways, or rewind time to try every crazy plan you can think of to punch a Traffic Warlock through a 4th story window.",
         "developers": [
             "Suspicious Developments"
@@ -16997,7 +16673,7 @@
             "Action",
             "Adventure"
         ],
-        "release_date": "14 Nov, 2019",
+        "release_date": "Nov 14, 2019",
         "description": "A galaxy-spanning adventure awaits in Star Wars Jedi: Fallen Order, a 3rd person action-adventure title from Respawn. An abandoned Padawan must complete his training, develop new powerful Force abilities, and master the art of the lightsaber - all while staying one step ahead of the Empire.",
         "developers": [
             "Respawn Entertainment"
@@ -17374,7 +17050,7 @@
             "Adventure",
             "RPG"
         ],
-        "release_date": "6 Feb, 2026",
+        "release_date": "Feb 6, 2026",
         "description": "HumanitZ is an isometric, open-world sandbox survival game set in a world ended by a zombie outbreak. Survive alone or with friends by scavenging, crafting, building, and fighting to last as long as \u2018humanly\u2019 possible. You can\u2019t change the past, but you can fight for the future of humanity.",
         "developers": [
             "Yodubzz Studios"
@@ -17400,7 +17076,7 @@
             "Action",
             "Adventure"
         ],
-        "release_date": "Apr 27, 2023",
+        "release_date": "27 Apr, 2023",
         "description": "The story of Cal Kestis continues in STAR WARS Jedi: Survivor\u2122, a galaxy-spanning, third-person, action-adventure game.",
         "developers": [
             "Respawn"
@@ -17597,7 +17273,7 @@
             "RPG",
             "Simulation"
         ],
-        "release_date": "Oct 23, 2023",
+        "release_date": "23 Oct, 2023",
         "description": "You're here to slay the princess. Don't believe her lies.",
         "developers": [
             "Black Tabby Games"
@@ -17749,7 +17425,7 @@
             "Strategy",
             "Early Access"
         ],
-        "release_date": "26 Sep, 2024",
+        "release_date": "Sep 26, 2024",
         "description": "Explore the galaxy in this deckbuilding, sci-fi roguelike where ship upgrades and crew management are key to your survival. Optimize resource generation, engage in intense turn-based battles, and take on ever-growing threats as you seek out The Signal.",
         "developers": [
             "Edgeflow Studio"
@@ -17876,7 +17552,7 @@
             "Action",
             "Adventure"
         ],
-        "release_date": "May 11, 2023",
+        "release_date": "11 May, 2023",
         "description": "Enter the adrenaline-filled world of a modern-day guerrilla revolution. With stunning vistas, visceral gunplay, and a huge variety of gameplay experiences, there's never been a better time to join the fight.",
         "developers": [
             "Ubisoft Toronto",
@@ -18460,7 +18136,7 @@
             "Adventure",
             "Indie"
         ],
-        "release_date": "21 Oct, 2025",
+        "release_date": "Oct 21, 2025",
         "description": "A co-op adventure about driving your Recreational Vehicle home.",
         "developers": [
             "Nuggets Entertainment"
