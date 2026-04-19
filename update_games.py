@@ -11,13 +11,13 @@ load_dotenv()
 STEAM_API_KEY = os.getenv('STEAM_API_KEY', '6D21DDC31824B11F6D274D96A0D41071')
 STEAM_ID = os.getenv('STEAM_ID', '76561198030118131')
 
-# App IDs to exclude (hidden/private games). Find IDs at store.steampowered.com/app/<ID>/
-EXCLUDED_APP_IDS = {
-    # e.g. 730,  # CS2
-    899970, # NEKOPARA Extra
-    333600, # NEKOPARA Vol. 1
-    385800, # NEKOPARA Vol. 0
-}
+# Load excluded app IDs from local file (not tracked by git)
+_excluded_ids_path = os.path.join(os.path.dirname(__file__), 'excluded_ids.json')
+if os.path.exists(_excluded_ids_path):
+    with open(_excluded_ids_path, 'r') as f:
+        EXCLUDED_APP_IDS = set(json.load(f))
+else:
+    EXCLUDED_APP_IDS = set()
 
 url = f"https://api.steampowered.com/IPlayerService/GetOwnedGames/v1/?key={STEAM_API_KEY}&steamid={STEAM_ID}&include_appinfo=true&include_played_free_games=true"
 
