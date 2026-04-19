@@ -14,8 +14,9 @@ STEAM_ID = os.getenv('STEAM_ID', '76561198030118131')
 # App IDs to exclude (hidden/private games). Find IDs at store.steampowered.com/app/<ID>/
 EXCLUDED_APP_IDS = {
     # e.g. 730,  # CS2
-    899970 # nekopara extra
-
+    899970, # NEKOPARA Extra
+    333600, # NEKOPARA Vol. 1
+    385800, # NEKOPARA Vol. 0
 }
 
 url = f"https://api.steampowered.com/IPlayerService/GetOwnedGames/v1/?key={STEAM_API_KEY}&steamid={STEAM_ID}&include_appinfo=true&include_played_free_games=true"
